@@ -317,6 +317,12 @@ palindrome_df = df[
     df.is_palindrome
 ]
 
+# In[37]:
+
+
+tokenizer = Tokenizer()
+tokenizer.fit_on_texts(df.clue.tolist())
+
 
 # In[29]:
 
@@ -383,11 +389,7 @@ cc_val_df = val_cc_types_df.drop('category',axis=1).drop_duplicates()
 cc_test_df = test_cc_types_df.drop('category',axis=1).drop_duplicates()
 
 
-# In[37]:
 
-
-tokenizer = Tokenizer()
-tokenizer.fit_on_texts(df.clue.tolist())
 
 
 # In[38]:
@@ -407,7 +409,7 @@ cc_test_data_out = cc_test_df[cc_test_df.columns[2:]] * 1
 
 
 model = keras.Sequential()
-model.add(Embedding(len(tokenizer.index_word)+1, 256))
+model.add(Embedding(len(36172, 256))
 model.add(Bidirectional(LSTM(256, dropout=0.5, recurrent_dropout=0.5)))
 model.add(Dense(14, activation='sigmoid'))
 model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['categorical_accuracy'])
