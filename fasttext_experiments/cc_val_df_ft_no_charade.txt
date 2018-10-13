@@ -1,0 +1,1920 @@
+__label__is_delete ,very fine short name for a hedgehog
+__label__is_delete ,reel after receiving punch drawing back
+__label__is_delete ,poisonous liquid in alcohol taken by him at the end
+__label__is_anagram ,prelate reorganised cloth folder
+__label__is_delete ,the fundamental ingredient of book without any changes
+__label__is_delete ,somewhere to sit not quite it's wet
+__label__is_alternate ,picture which involves work
+__label__is_anagram ,media taken in by ‘terribly poor' tyrant
+__label__is_delete ,when a child one must visit the old country
+__label__is_delete ,measure of anxiety when confronted with memory
+__label__is_homophone ,special terms in old ship announced
+__label__is_anagram ,new lad in rome a city dweller
+__label__is_contain ,area covered by minister that gives power
+__label__is_anagram ,latest of restrictions in force affected trees
+__label__is_contain ,modest outlay for south african crossing the spanish state
+__label__is_anagram ,beer scam drunk takes to heart
+__label__is_delete ,baby carriers the odd ones leaving auntie frail
+__label__is_delete ,tufted materia l originally clicked with shetland town right away
+__label__is_contain ,strongest deer passes away in shelter
+__label__is_contain ,good times of quiet embraced by you and me
+__label__is_delete ,closely examining wingless bird
+__label__is_anagram ,the padre has fashioned such signs of love
+__label__is_delete ,pop over to visit son and pop
+__label__is_cryptic ,admit to being a priest
+__label__is_delete ,hand tool last of his i removed from bag
+__label__is_reverse ,epicurean opponent hosting current party in recession
+__label__is_delete ,formal attire not to have any connection with bishop
+__label__is_anagram ,hard worker heartless janitor's thrown out
+__label__is_cryptic ,detective leaving gap in policy
+__label__is_delete ,operator married across the ocean
+__label__is_delete ,grind chickpeas retaining one tiny amount
+__label__is_delete ,food allowed in summer month excludes nothing served with cheese
+__label__is_anagram ,was messing with the bandage
+__label__is_cryptic ,surrenders to another country
+__label__is_contain ,fur isa blessing to some extent
+__label__is_delete ,rubbish collecting for instance in pan
+__label__is_anagram ,shelved stand that now is fashionable
+__label__is_delete ,hairstyle not initially agreed to the opposite
+__label__is_contain ,story about teetotaller — right gossip
+__label__is_homophone ,bore ready for an audience
+__label__is_contain ,sentiment sailor's expressed about church mass
+__label__is_palindrome ,queen's address written either way
+__label__is_anagram ,african galas may go wild
+__label__is_anagram ,capital we held in another form
+__label__is_&lit ,what's the last part of studies
+__label__is_delete ,reduced opportunity to get central america spice
+__label__is_contain ,bank agent meets huge politician one to be entertained
+__label__is_reverse ,watchword of guy painting in retirement
+__label__is_contain ,figure getting financial district in right muddle
+__label__is_anagram ,with day fading idol facing riot breaking out in festivity
+__label__is_delete ,religious college cut class
+__label__is_anagram ,forward planning to hug hot ref abroad
+__label__is_anagram ,rarely can it develop set between others
+__label__is_anagram ,plonker put my rubbish next to nag's head
+__label__is_anagram ,snack costs — a top rip off
+__label__is_init ,animal flesh cut into by queen starter from kitchen
+__label__is_delete ,advocate increase mostly to disrupt trade
+__label__is_delete ,bloke lacking energy on a lake is a blow
+__label__is_init ,japan lumberjack's work not initially light exercise
+__label__is_contain ,forked out to obtain large tartan cloth
+__label__is_anagram ,foot is free to wander
+__label__is_delete ,hopeless days in rome one having left partnership
+__label__is_anagram ,opera 's premiere mostly gets hammered
+__label__is_delete ,poisoner keeps being sheltered having got off
+__label__is_delete ,cordial poured over hot body support
+__label__is_cryptic ,difficult to shift as were troops on the somme
+__label__is_contain ,animated like a thug casing v a
+__label__is_anagram ,aroused — and with a week to cavort
+__label__is_anagram ,liquid tar we mixed
+__label__is_contain ,in revolutionary day sounded like a queen
+__label__is_hidden ,defaulter i organised housing beyond a certain point
+__label__is_contain ,fish in basic wrapper that is to be scanned
+__label__is_anagram ,boba fett totally gutted took to heart exploded moon quip
+__label__is_init ,one attending lessons in school this early needs extra reading at first
+__label__is_delete ,one passionately disliked pulling off black top
+__label__is_delete ,worthwhile american english teaching outside of university
+__label__is_cryptic ,have more than revealed by issue
+__label__is_contain ,haggard villain i caught crossing state
+__label__is_cryptic ,drifter of a coldly detached nature
+__label__is_anagram ,the book buying public praised her novel
+__label__is_cryptic ,decline to be seen in a white coat normally
+__label__is_contain ,city 's way to divide fare in old time feast
+__label__is_anagram ,labour paranoid enthralling house — it's all the same to ministers
+__label__is_anagram ,force with light weapons finally moves quickly
+__label__is_hidden ,some particular premises unfinished
+__label__is_delete ,got down without delay oddly finding nothing
+__label__is_contain ,in depression find a physician
+__label__is_delete ,water deity 's way protecting quartet thus
+__label__is_reverse ,cheese — lot getting consumed a different way
+__label__is_hidden ,former characters from whitby go needy
+__label__is_delete ,ray gather name's changed to miles
+__label__is_anagram ,agents only half modest age led astray
+__label__is_delete ,ring not new bloke disheartened girl
+__label__is_anagram ,our ben's terribly drunk
+__label__is_contain ,without hesitation children get angry
+__label__is_anagram ,queen's only been unexpectedly captured by a knight
+__label__is_contain ,breakaway group declined to let conservative in
+__label__is_delete ,indian songbird — medicine man removes tail
+__label__is_homophone ,here one might pick up saddle for one's lower back
+__label__is_anagram ,a plant's manufacturing rota
+__label__is_delete ,not any composition left unfinished
+__label__is_homophone ,laid out report of an aggressive act
+__label__is_init ,sleuths follow big inquiries putting their heads together
+__label__is_contain ,the writer contributing to series that could be tripe
+__label__is_anagram ,voter stirred up on being taken in by proposal
+__label__is_contain ,bloke's touring arranged by lewis's neighbour
+__label__is_spoonerism ,according to spooner only that man francis lives here
+__label__is_anagram ,most stylish female in office
+__label__is_delete ,ruler a timeless measuring device
+__label__is_anagram ,left behind andrea after surgery on kidney
+__label__is_contain ,satellite receiver to come down after swapping three components
+__label__is_anagram ,stupid male's given gold coin that's forged
+__label__is_reverse ,intended answer not exactly reflecting oxbridge life
+__label__is_&lit ,burrower turns over regular parts in this
+__label__is_anagram ,full up i tasted a stew
+__label__is_delete ,reduction in aid given to church body
+__label__is_cryptic ,one holding tea or tee
+__label__is_contain ,sexless film shown in various quarters
+__label__is_anagram ,fund new loony borders party
+__label__is_anagram ,used by peeping tom 25 shy perverted
+__label__is_anagram ,madly in love with catholic maybe embracing pacifism
+__label__is_anagram ,shield university kept in battered chest once
+__label__is_anagram ,tumultuous raiser of mountains
+__label__is_contain ,staff welcoming old duke's lackey
+__label__is_reverse ,stomach a very uppity threatening look
+__label__is_anagram ,rare show designed for stage and screen entertainment
+__label__is_anagram ,leave lodging somewhat sequentially — have life
+__label__is_reverse ,place of refreshment in desolate place man found heading west
+__label__is_anagram ,doctor honours aim to be sympathetic
+__label__is_anagram ,an anti nazi gathering expels one foreign national
+__label__is_init ,judge initially under pressure in a fix
+__label__is_hidden ,thoroughbred's stark lesson not all needed
+__label__is_anagram ,place to contemplate story h pinter contrived
+__label__is_cryptic ,it's tense but what's ahead couldn't be better
+__label__is_cryptic ,important details are often concealed in this beautiful picture
+__label__is_anagram ,t toast's out for those obsessed with their figures
+__label__is_homophone ,increasingly wintry spot forecaster's mentioned
+__label__is_hidden ,inactive matador man that's restricted
+__label__is_hidden ,assassin arrested by lenin jailed
+__label__is_delete ,box containing key and rings mistress emptied out in cafes
+__label__is_cryptic ,small boy is cunning
+__label__is_reverse ,touring circuits clock up passes
+__label__is_hidden ,typographical symbol used in recording batches
+__label__is_cryptic ,prison critic
+__label__is_anagram ,rule onfor bungling old statesman
+__label__is_anagram ,island for outcast in copperbelt
+__label__is_init ,nun bagging bits of unwanted rags such as old clothes
+__label__is_contain ,badgers bring in new disease ultimately infecting us
+__label__is_init ,beginning to tune say four small instruments
+__label__is_anagram ,was ankle injured in ballet
+__label__is_contain ,fixes to tourcity and midwest feature
+__label__is_cryptic ,maintenance that gets the set going
+__label__is_contain ,speak harshly about old hooligan getting bad deal
+__label__is_reverse ,twice i must wrap returned vessel of richly decorated porcelain
+__label__is_reverse ,old judge of mine reflecting over a long period
+__label__is_init ,cassandra and raquel originally in reliant robin say
+__label__is_homophone ,view sound or larger stretch of water
+__label__is_cryptic ,makes which witch say what she does for failing charm
+__label__is_contain ,pull a funny face about summer's last drink
+__label__is_hidden ,wormwood used in labs in thailand
+__label__is_anagram ,college my clue represented
+__label__is_contain ,last character in register one who produced noted scores
+__label__is_hidden ,hasty liam stifles writers
+__label__is_anagram ,cross can't be played with — it's very holy
+__label__is_cryptic ,single stock from a mom and pop store
+__label__is_init ,number domitian initially represented in rome
+__label__is_delete ,beef joint presented by wife
+__label__is_anagram ,consonantal sound aligned until misaligned
+__label__is_anagram ,tern's cry mingled with sea
+__label__is_homophone ,in florida resort to work corruptly for auditor
+__label__is_delete ,connecting tunnel in theory hard without right tunneller around
+__label__is_cryptic ,county with the very thing in accommodation
+__label__is_anagram ,bhutan's unusual way of getting a tan
+__label__is_homophone ,heard swans and seals
+__label__is_anagram ,close to fibula peasant hurt foot
+__label__is_anagram ,digitally depict female earning tip modelling
+__label__is_contain ,travels up to collect bill for salt
+__label__is_anagram ,foreign money scattered on ark
+__label__is_contain ,curse ruling framed by old woman celebrity
+__label__is_homophone ,author of the across spoken language only half finished
+__label__is_alternate ,slender cook with fat children
+__label__is_homophone ,audibly folds slip
+__label__is_reverse ,weed over in ditch i extracted
+__label__is_cryptic ,present distributor's access point
+__label__is_homophone ,animal — husky say
+__label__is_reverse ,no dope taking ecstasy about to get reward
+__label__is_init ,no longer enough to make a case
+__label__is_hidden ,slovenly scotswoman needed to get cleaner “maybe someday” covers that
+__label__is_anagram ,male ant is mistaken regarding flower parts
+__label__is_anagram ,one taking steps and collapsing on ground getting up
+__label__is_hidden ,informally offering desprez ziegfeld exhibits
+__label__is_anagram ,wader trembling in rhone wash
+__label__is_anagram ,pelicans distributed irregularly
+__label__is_contain ,measuring rods to bung in sauces
+__label__is_delete ,after trimming season and lay to rest
+__label__is_contain ,weapons manufacturer busy at last in shady nook
+__label__is_anagram ,incense driver after smashing plates etc
+__label__is_reverse ,spice fanatic turned over excellent specimen
+__label__is_cryptic ,this child's arm might need a tap
+__label__is_homophone ,soundlessly defying comprehension
+__label__is_delete ,percussionist beginning to drink spirit by sea in boulogne
+__label__is_anagram ,louts break up the plant
+__label__is_hidden ,desires cinderella needs to set aside
+__label__is_delete ,swallow fed dry sandwich
+__label__is_cryptic ,the french connection
+__label__is_anagram ,lads went dancing in slough and similar places
+__label__is_contain ,bosses around one's kitchen workers
+__label__is_&lit ,form of agreement extended by adding a second
+__label__is_cryptic ,sports club
+__label__is_reverse ,recalled laughs with a tenor getting out of place in fugal passages
+__label__is_anagram ,hypothetical matter reportedly somehow missing red
+__label__is_anagram ,bouncy castleplayed with
+__label__is_anagram ,brown horses crossing sort of wilder places to lead them
+__label__is_double ,collingwood catch one in hoisted to leg led astray
+__label__is_reverse ,nothing right about disgusting feeder
+__label__is_&lit ,harm poet this blunder might well
+__label__is_anagram ,glen met an awfully decent chap
+__label__is_cryptic ,places one can get on with boob jobs i'm told
+__label__is_reverse ,theatrical company engaged in a ‘ring' recalled – as experts in this
+__label__is_anagram ,stage right oscar to play guitar
+__label__is_anagram ,badly shod curate flopped spectacularly
+__label__is_anagram ,fail to connect using crude jingoism that's no good
+__label__is_delete ,maiden engaged by elizabeth possibly shortened her devoted poet's suit
+__label__is_reverse ,notice colour around snake
+__label__is_anagram ,ok old car bashed at the front could create this
+__label__is_homophone ,construct a house as advertised we hear
+__label__is_anagram ,vital forces so misapplied with goner
+__label__is_delete ,notice secretary's put in study unable to be read
+__label__is_anagram ,cuts cash outlay saving grand
+__label__is_anagram ,ready to debate distribution of mature vintage
+__label__is_cryptic ,highest place in the church
+__label__is_contain ,forged bar – it must contain iron
+__label__is_hidden ,some hoopla zany in public area
+__label__is_double ,breaking up is great
+__label__is_hidden ,it's abominable being constrained by silly etiquette
+__label__is_contain ,keep around 50 to share
+__label__is_anagram ,little one's misrepresented taggart's fraud
+__label__is_delete ,set of 45s maybe but no new instruments
+__label__is_double ,prop second sent off – teamwas cock a hoop
+__label__is_anagram ,having no one in control slide errs badly
+__label__is_anagram ,dismal fen spattered fine leg perhaps
+__label__is_anagram ,french aristos unable to adapt to new regimes
+__label__is_anagram ,they resist misrepresenting hero figures
+__label__is_homophone ,sound way to walk in door
+__label__is_init ,bloody liquid concoction in cans – hope one's refreshing when opened
+__label__is_anagram ,an honest duo possibly — or a much larger number
+__label__is_anagram ,late partygoers provide their own lights
+__label__is_anagram ,aesop caper rewritten as sci fi story
+__label__is_delete ,auxiliary note finally omitted from opera
+__label__is_reverse ,vegetable sent west for native american
+__label__is_anagram ,panicking disastrously as a grenade exploded
+__label__is_&lit ,– head of state one such causing sorrow
+__label__is_reverse ,porter back in speed move
+__label__is_anagram ,centrally allocated in pieces of eight
+__label__is_double ,skier‘s result
+__label__is_contain ,ray catches river fish
+__label__is_anagram ,in a hole if ban's set in motion
+__label__is_contain ,political extremist claiming to be in paris or tyre
+__label__is_anagram ,think cerebrally elite latin clues are tortuous
+__label__is_homophone ,casual greeting more lofty on the telephone
+__label__is_anagram ,app at last rightly designed for tablet
+__label__is_alternate ,songbird twists oddly
+__label__is_anagram ,statesmen arranged financial review
+__label__is_hidden ,proof goof in publicity poetry
+__label__is_init ,shorebird english first to last showing no sign of age
+__label__is_init ,tarry as once in highland valley heading to eastward
+__label__is_hidden ,girl in film is seductive
+__label__is_cryptic ,standard position for mourning
+__label__is_double ,scooter boy in the war department
+__label__is_double ,sound airy and stylish
+__label__is_reverse ,henry in danger back in former times in english region
+__label__is_homophone ,the fish that got away you say it's a mix up
+__label__is_double ,river in france providing the means to catch fish
+__label__is_hidden ,part of grounds and pitch where kids can play
+__label__is_reverse ,turf in resort is back
+__label__is_anagram ,stirring drama about invasion force
+__label__is_anagram ,leaving jacket nipped out for a smoke
+__label__is_reverse ,running ahead look around
+__label__is_delete ,being without enemies in the east end is commented on
+__label__is_init ,during a sickness starts to yawn – that's being fed sedative
+__label__is_anagram ,go back to renew green energy
+__label__is_anagram ,l but rude michaelangelo is a party dude teenage mutant ninja turtles heroes in a half shell turtle power new union member's shot in labour uprising
+__label__is_contain ,private cricket side hosting worcestershire's opener
+__label__is_cryptic ,they may act as warnings
+__label__is_anagram ,hears will need preparing for drinks
+__label__is_cryptic ,light touch for a lady driver
+__label__is_hidden ,some parliamentary conclusion by minister
+__label__is_anagram ,mazdaist works printed and published secretly
+__label__is_anagram ,label epic rare potentially unique
+__label__is_anagram ,unexpected tourist angle about new airport facility
+__label__is_anagram ,soaps go in for dramatising unseen killer
+__label__is_double ,ambition to get behind wheel
+__label__is_cryptic ,they hang about in the cold
+__label__is_hidden ,dunk in wadi pinkies
+__label__is_delete ,perhaps pin ups have no time for play actors
+__label__is_cryptic ,one over the eight
+__label__is_anagram ,genteel field day arranged
+__label__is_cryptic ,women who saw wartime service in the field
+__label__is_anagram ,end study in a flat spin such haste is rare in scotland
+__label__is_anagram ,senior servant once wildly eager for anti sun protection
+__label__is_contain ,not merely one's desire to be as neat
+__label__is_anagram ,surreptitiously tape most of film in old cinema
+__label__is_anagram ,rate poet that's arranged musical work
+__label__is_anagram ,salt mined in near east
+__label__is_double ,clothes and belt
+__label__is_anagram ,shot provider of duff gen on country at war briefly
+__label__is_cryptic ,such a discussion gives opportunity for falling out
+__label__is_anagram ,ace goes into lead being fit unusually tireless
+__label__is_double ,take drugs regularly to work
+__label__is_contain ,admit military intelligence infiltrated popular red
+__label__is_reverse ,in that way asian islander upset indians
+__label__is_cryptic ,the only one in a suit
+__label__is_delete ,awesome gas associated with singular manure
+__label__is_double ,majestic part of the summer
+__label__is_init ,see 26 odds on graf's first service
+__label__is_init ,see 14 down 16 number of centuries from county cricket club openers
+__label__is_cryptic ,business expenses liable to cause a storm
+__label__is_anagram ,merit rest — could be three months
+__label__is_init ,character introducing the king a musical act ending in 19
+__label__is_homophone ,one unpopular at opera in audience box
+__label__is_delete ,very hard stuff putting maiden off – that's strange
+__label__is_contain ,virile man travelled initially in french south
+__label__is_hidden ,held in contempt yob is vacant
+__label__is_anagram ,court pale men dodging call to box for count
+__label__is_cryptic ,runner who harasses somebody more like king henry v
+__label__is_anagram ,a long time in reorganising unsuccessful defence
+__label__is_anagram ,this place's set for promotion
+__label__is_palindrome ,stop rising and falling
+__label__is_cryptic ,you can't order it in a strange pub
+__label__is_anagram ,each tune's special for someone like piaf
+__label__is_reverse ,perhaps school member only returning a musical instrument
+__label__is_contain ,time to invade indian island
+__label__is_init ,treatment pronounced as if i wasn't there
+__label__is_hidden ,instrument installed in radio car in addition
+__label__is_homophone ,useless object of worship sounds like it
+__label__is_homophone ,incline to listen to key virtuoso
+__label__is_contain ,when to have a flutter on a horse
+__label__is_reverse ,help spinning this form of fluke
+__label__is_hidden ,design lovely graceful clothes from the south
+__label__is_init ,male graduate says ichthyosaurs lacked heads
+__label__is_homophone ,rock can be kind on the ear
+__label__is_anagram ,startling sound though not full volume
+__label__is_homophone ,this gypsy gentleman‘s conveying irony in broadcast
+__label__is_hidden ,magic one conceals this sprite maybe
+__label__is_anagram ,despair re crooked hangings
+__label__is_contain ,some work little dogs over 45 minutes
+__label__is_init ,in what way shakespeare initially bypassed actor in 8 11 12
+__label__is_contain ,intermission in cinema after explosive drama 10 5
+__label__is_init ,material heading for comet in small constellation
+__label__is_anagram ,dire price paid out for being stuck on rock
+__label__is_hidden ,in extremis at edgbaston no more appetite for sex
+__label__is_anagram ,order to pen rap music part here 10 5
+__label__is_anagram ,comprehensive school can blame girl
+__label__is_anagram ,partner ruined entrance
+__label__is_anagram ,appearing at last chicken tikka's pink when cooked – call for a bit of service
+__label__is_reverse ,measureprosecutor up for erstwhile award
+__label__is_contain ,wish expressed for peace is false — look into it
+__label__is_anagram ,can i rhyme “errant” and “plant”
+__label__is_anagram ,weedy kid's condition worrying nit nurses
+__label__is_cryptic ,enduring so it seems to jaded scholars
+__label__is_hidden ,jellied food packed in free lunches
+__label__is_anagram ,came running with sound upsetting rich man
+__label__is_homophone ,dash in radioed distress signal
+__label__is_cryptic ,poetically skilful
+__label__is_anagram ,it is cooking apples that absorb cutback
+__label__is_double ,handy placewhere one can get a date easily
+__label__is_&lit ,there's still one needing to be found
+__label__is_anagram ,various memes scattered over with bearings
+__label__is_anagram ,container – it's used by grammar expert
+__label__is_homophone ,reported to be stretched tight as instructed
+__label__is_anagram ,minutely prepared yet premature
+__label__is_anagram ,company access good rates at sea
+__label__is_anagram ,cheese of unusual hue is bland
+__label__is_cryptic ,sort of organ that sometimes needs a blow
+__label__is_anagram ,respect is high for royal staff
+__label__is_homophone ,new arrivals we hear at the docks
+__label__is_delete ,king of tyre from memory greeting heads
+__label__is_reverse ,anger about charge going up in the fashion business
+__label__is_anagram ,fritter's cooked on ring
+__label__is_anagram ,mistreated terrier – one seeking seclusion
+__label__is_anagram ,account about ostrogoth leader in classical language
+__label__is_double ,stimulating drink
+__label__is_hidden ,where's the old game starting in any event
+__label__is_init ,perhaps bishop with cold mouth and nose first to catch dreaded disease
+__label__is_double ,clues like this provide unpleasant experiences
+__label__is_cryptic ,forces people to take food here
+__label__is_reverse ,cross over the threshold
+__label__is_anagram ,it's to drunkenly stagger on speyside
+__label__is_double ,feature of tennis or another sport
+__label__is_hidden ,egg eaten by his excellency
+__label__is_cryptic ,picnic food
+__label__is_anagram ,carnivore later let loose
+__label__is_anagram ,after dreadful rant writer is given drug to calm down
+__label__is_reverse ,policeman protecting island or returning keeps himself involved with fingerprints
+__label__is_cryptic ,rustlers shepherds lay hold of
+__label__is_anagram ,ape screamed dreadfully seeing flasher
+__label__is_hidden ,yank explosive from granite rocks
+__label__is_anagram ,custom in south america to wolf down chorizo ingredient
+__label__is_anagram ,quibble about abandoning paris hilton's broadcast
+__label__is_anagram ,surprisingly catch it stopping a run or 4
+__label__is_homophone ,agree inside reportedly to support business
+__label__is_anagram ,rate the tester turning out this shopper's distraction
+__label__is_anagram ,could be one against change
+__label__is_anagram ,tiger so wild more savage than all the others
+__label__is_reverse ,had meal greek character brought over
+__label__is_anagram ,switch to email on moving
+__label__is_anagram ,university central to artier bohemian region of old italy
+__label__is_anagram ,it's fishy shaky and wobbly
+__label__is_anagram ,you and i quickly wanting to be let out from it
+__label__is_cryptic ,parliamentary term
+__label__is_hidden ,nap in cosiest alcove
+__label__is_anagram ,church service articles christen number in varied sort
+__label__is_palindrome ,visit – return visit
+__label__is_cryptic ,not at all susceptible to gibes like 16 across if absorbing
+__label__is_anagram ,hop it with box on fire close to iowa showing fear of dangerous stuff
+__label__is_&lit ,product of an evil regime
+__label__is_hidden ,regular in swindon or malmesbury
+__label__is_anagram ,saki's struggling and writes out examinations
+__label__is_cryptic ,confusion that doesn't have one's head in a whirl
+__label__is_anagram ,getting jostled but lads are coping with supporters
+__label__is_reverse ,dancer has a passion mounting after dance
+__label__is_anagram ,material thrown out by policeman stopping us at resort
+__label__is_init ,shellfish with feathers bringing in start of pesticide restriction
+__label__is_double ,take stone from mine
+__label__is_anagram ,bugger off as can anyone
+__label__is_cryptic ,they help strikers to see the delivery men
+__label__is_anagram ,doctor in no way tires resolved to show endurance
+__label__is_homophone ,the carbuncle was seen by me reportedly
+__label__is_anagram ,saying or mishap perhaps
+__label__is_anagram ,remain at sea – as one would
+__label__is_homophone ,begins hunting like a sea wolf
+__label__is_anagram ,smack steams to the orient as far as it goes
+__label__is_anagram ,found horns struggling with time yes time
+__label__is_anagram ,weed there'll be awful load in end
+__label__is_cryptic ,formidable task in directive from on high
+__label__is_anagram ,paul's a pothead stoned somewhere in sweden
+__label__is_cryptic ,one hangs around in formal situation possibly making a bow
+__label__is_anagram ,relating to a thigh muscle of sailor turning round craft
+__label__is_anagram ,versatile writer — girls loved him to dance
+__label__is_anagram ,“goners' ledger” prepared here in london
+__label__is_homophone ,d one hears excessively vulgar blare sounds like a car horn
+__label__is_anagram ,minute enemy's wasted with minutes to spare
+__label__is_cryptic ,limber law breaker out to steal the kitty
+__label__is_anagram ,disturbed teenager stealing silver dish
+__label__is_homophone ,in hearing is aware of hooter
+__label__is_contain ,maybe avoided bitter disgrace sleeping around
+__label__is_homophone ,city guides on audio
+__label__is_homophone ,sound of ripples in sink
+__label__is_hidden ,take notice of shop's stocktaking
+__label__is_reverse ,do back up computers
+__label__is_hidden ,knack one which anglers have at heart
+__label__is_double ,clubs jeremy
+__label__is_delete ,sexist women‘s bastard ways
+__label__is_anagram ,police put inregarding union activity
+__label__is_contain ,poet retaining fashionable narrative style ignored by new wave
+__label__is_anagram ,hack supply secured with tight ropes
+__label__is_anagram ,allies ring spies to intercept foreign assets
+__label__is_cryptic ,dark atmosphere of lullaby
+__label__is_anagram ,short let arranged for mavis
+__label__is_init ,pastry dish for lunch about noon originally
+__label__is_reverse ,anxious as sweet dishes are sent back
+__label__is_init ,char 's voice beginning to naff off
+__label__is_homophone ,small seals pick up small birds
+__label__is_double ,bird of reef
+__label__is_reverse ,brave leader upset over child say
+__label__is_hidden ,straight part of tunnel in earth
+__label__is_init ,starts talks round a painful snare
+__label__is_anagram ,jog about then forward
+__label__is_homophone ,means of predicting if one can be heard
+__label__is_cryptic ,take things the wrong way
+__label__is_anagram ,awfully cruel medical condition
+__label__is_cryptic ,seer
+__label__is_anagram ,tiny girl's suffering with a respiratory condition
+__label__is_anagram ,mostly pleased with agents breaking into geological development
+__label__is_homophone ,frolic and play to the audience
+__label__is_spoonerism ,slackens w spooner's little lines
+__label__is_anagram ,guess i'd need dressing up for masquerade
+__label__is_anagram ,performing arts isn't in notorious girls school
+__label__is_homophone ,declared set of furniture charming
+__label__is_homophone ,struggle we hear that involves hacking
+__label__is_contain ,in battle site english bishop planted fruit tree
+__label__is_delete ,take in
+__label__is_init ,first and foremost nearly all sexists are lovers of hooters
+__label__is_anagram ,musical style of a tug in distress
+__label__is_anagram ,some guts shown by couple meeting a bad end earlier
+__label__is_anagram ,ruined couple's mutual fund — that shows effect of world revolution
+__label__is_anagram ,keats not initially well turned very thin
+__label__is_delete ,measure dropped following cut
+__label__is_cryptic ,light sleep
+__label__is_spoonerism ,gather julius confesses to being an idiot
+__label__is_anagram ,airborne shooter in range until shot
+__label__is_hidden ,animal trapped in spin drier
+__label__is_anagram ,reportedly they get loafs
+__label__is_anagram ,signal that could be great help
+__label__is_palindrome ,type of book that will be returned undamaged
+__label__is_reverse ,sympathy recedes after extremely foul dump
+__label__is_anagram ,with craft i can steer 225º through opening
+__label__is_reverse ,english mother's family mostly raised to be successful without help
+__label__is_cryptic ,multiply without going forth
+__label__is_double ,romantic song told a story
+__label__is_anagram ,body weight up and ego shattered
+__label__is_cryptic ,you should keep well away from this
+__label__is_hidden ,extremely old turning in dress elegantly
+__label__is_anagram ,dd 8 across funds one extremely dangerous weapon's first outing
+__label__is_anagram ,riled up drunk gets painkiller
+__label__is_anagram ,turning greener bad local area
+__label__is_anagram ,manage cheerful approach
+__label__is_anagram ,early indication of what's breaking distraught welsh fans
+__label__is_double ,spotted divine fruit inside
+__label__is_&lit ,naughty son is not commonly a —–
+__label__is_homophone ,satirist's rendition of chamber music
+__label__is_anagram ,reserve of dye most supply
+__label__is_cryptic ,put some money in the bank as a way of paying later
+__label__is_delete ,general going with model to get plastered
+__label__is_anagram ,left in new home unwell with lawn problem
+__label__is_anagram ,cross court as if beaten
+__label__is_cryptic ,they can be depressed by what it takes to hitch hike
+__label__is_anagram ,way death is dealt with quietly concealed
+__label__is_homophone ,voice school place
+__label__is_reverse ,note about bait used in seduction
+__label__is_hidden ,little pessimism in use that's negative
+__label__is_anagram ,what runs along it misguidedly let outside
+__label__is_anagram ,little butter and any scraps of past tuck simmering in cook's receptacle
+__label__is_anagram ,i led revolt against right layabout
+__label__is_contain ,come from eastern parts to work hard
+__label__is_anagram ,pervasive crackers met in person
+__label__is_anagram ,this singer develops a lot
+__label__is_hidden ,area covered by cereal mill
+__label__is_anagram ,celia turned out to be a young victorian heroine
+__label__is_delete ,drink and eat with digestion initially going flat out
+__label__is_anagram ,later chats about what cardinal might be wearing
+__label__is_hidden ,skin or inner section of flounder maybe
+__label__is_delete ,not a word on delaware indian's homeland
+__label__is_anagram ,tom is a potential supporter of the chairman
+__label__is_anagram ,teams dreamt press release is rewritten more appropriately
+__label__is_hidden ,boat from the maldives seldom seen
+__label__is_anagram ,article linked to file involved in michael caine film
+__label__is_anagram ,being suave is a mixed blessing
+__label__is_anagram ,indefinitely adjourned by english following inside manoeuvring
+__label__is_contain ,level in much loved place where con was done to death
+__label__is_hidden ,trustee pleading nurses big erection
+__label__is_reverse ,bill abroad from bury with hangover
+__label__is_anagram ,gut has mildew so be worried
+__label__is_double ,novel carrying the store's label
+__label__is_reverse ,this woman with ba say pulled back a day's work up north
+__label__is_init ,character not the first to get urge
+__label__is_anagram ,character trailing runner little energy idled badly one spins
+__label__is_hidden ,section of orchestra should refuse
+__label__is_hidden ,single stormtrooper hiding fires
+__label__is_anagram ,photographic technique cuts off so badly
+__label__is_delete ,fitting act by doctor attending sick
+__label__is_homophone ,report to reveal one may be in the soup
+__label__is_hidden ,across 1 measure of power in new attraction
+__label__is_cryptic ,one who holds match records
+__label__is_anagram ,fox hounds bay
+__label__is_cryptic ,scandalous secrets that might involve a scrubber
+__label__is_anagram ,warn eye make up will require change at end of date
+__label__is_anagram ,oddly and 31 sprinter turned chaser
+__label__is_hidden ,language group included in mandarin dictionary
+__label__is_anagram ,amphibian disturbing a male red salmon
+__label__is_anagram ,decorative bits of stem ginger at last – and no bananas
+__label__is_anagram ,see 9 alec's tea involved mushroom and rocket
+__label__is_anagram ,pewter mostly thrown out into the deep
+__label__is_homophone ,conundrum drug with a title in report
+__label__is_anagram ,foolish cecilia stripped off without honour
+__label__is_cryptic ,soft spot your boss has for you
+__label__is_homophone ,audibly twists and relaxes
+__label__is_hidden ,perennial part of figaro ideal
+__label__is_init ,readies cricketers as summer holiday starts
+__label__is_anagram ,account in which one acted badly
+__label__is_anagram ,mature elm diseased sad
+__label__is_anagram ,moral system demands witches flayed and chopped to bits
+__label__is_anagram ,tired chap works for peanuts
+__label__is_hidden ,playing at oval for a bit of radio commentary cake
+__label__is_anagram ,liqueur drunk at a fair
+__label__is_double ,variety of pewter dish
+__label__is_init ,header missed in game after trial for roman defence
+__label__is_anagram ,it should facilitate a quick withdrawal tickling her lots
+__label__is_reverse ,shock upset father and friend
+__label__is_reverse ,first almost not the first
+__label__is_anagram ,greek character dealt deviously
+__label__is_anagram ,trumpeter stirring mortals rousing
+__label__is_anagram ,ulcers a problem over a very long period
+__label__is_hidden ,paddy entering bistro perhaps
+__label__is_homophone ,made one's mark reportedly in skin transplant
+__label__is_anagram ,parted in rage like flies
+__label__is_reverse ,coming from the east go crazy
+__label__is_anagram ,in modern times life is thrown away
+__label__is_init ,no room for lawyer's wig rubbish
+__label__is_anagram ,jockey feels silly in an apathetic way
+__label__is_cryptic ,a case of what should properly be used to cover a floor
+__label__is_hidden ,from delicatessen a chocolate chip
+__label__is_homophone ,nanny doubly immersed in cookbook did you say
+__label__is_cryptic ,as yet unalarmed
+__label__is_cryptic ,actor opening disney store in london area
+__label__is_anagram ,keeping on bad terms is a horrible thing
+__label__is_delete ,plan to see off a naughty child
+__label__is_homophone ,stones handled by him caught one in fight
+__label__is_contain ,le manoir's dainty is minute packing a bit of gorgeousness agreed
+__label__is_double ,supportlech walesa
+__label__is_hidden ,hemmed in by protest a tory is one prepared to leave things behind
+__label__is_hidden ,layer of skin in older man
+__label__is_homophone ,box for an emperor giza by the sound of it — more than one of those
+__label__is_cryptic ,where to see working models
+__label__is_delete ,it's true about court seizing current account
+__label__is_double ,strange like a retired policeman
+__label__is_homophone ,band on building we catch set and what numbers do
+__label__is_init ,showed promising signs a plant initially kept in outhouse
+__label__is_hidden ,free lunch includes fish
+__label__is_anagram ,mulch possibly decayed in hours
+__label__is_cryptic ,they have two members in support
+__label__is_anagram ,hearing nothing notes fade badly
+__label__is_delete ,humanity in cape horn wearing uniform repeatedly
+__label__is_anagram ,poet put out about weekend
+__label__is_anagram ,duration of lunch a guest regularly cooked
+__label__is_anagram ,primate in frantic push to get fit
+__label__is_anagram ,expressively emotional pathetic cyril
+__label__is_cryptic ,secured position in oxford
+__label__is_hidden ,wassingle handedly apprehending killer
+__label__is_reverse ,face rival without backchat
+__label__is_init ,extremely insalubrious brown animal not back in city
+__label__is_reverse ,writing up of school register
+__label__is_anagram ,short of time rita tried a broken shed light
+__label__is_palindrome ,up and down energy
+__label__is_anagram ,rial changed for georgian cash
+__label__is_contain ,perhaps show outrage about popular sportsperson using strong arm tactics
+__label__is_anagram ,tory laid out with skill
+__label__is_homophone ,saying “scat ” you put your foot in it
+__label__is_homophone ,reportedly sanction rise
+__label__is_homophone ,devoted to god completely by the sound of it
+__label__is_spoonerism ,spooner's fake history published on the internet
+__label__is_cryptic ,there's virtually nowhere else to go for online entertainment
+__label__is_anagram ,laughs at what could be desired
+__label__is_anagram ,begging that rage in tent be modified
+__label__is_anagram ,academic all shy or nervous about clubs
+__label__is_anagram ,talk to police about who vandalised display
+__label__is_anagram ,revolutionaries breaking up resistance superior lot invading
+__label__is_&lit ,propitiate goddess after stone in ireland's set up
+__label__is_homophone ,noise of chaps making appearance
+__label__is_anagram ,africans resign in a reorganisation
+__label__is_cryptic ,a prats do “cyclops like ears”
+__label__is_anagram ,recital's tricky piece
+__label__is_reverse ,likelihood party will be backed by surgeon
+__label__is_alternate ,way out involving apollo disregarding odds feat
+__label__is_homophone ,my tremendous sound as birds gather to do this
+__label__is_cryptic ,able to speak in tongues
+__label__is_hidden ,inclusion in the euro offers protection
+__label__is_anagram ,biro's wielded on a synoptic chart
+__label__is_anagram ,was coppola smitten with yen to make this 10 3
+__label__is_anagram ,new intro in place for hard copy
+__label__is_init ,ford flying over red leader in criminal's fast vehicle
+__label__is_homophone ,spring time to follow love in frivolity
+__label__is_anagram ,possibly runs hotline to find animal killers
+__label__is_init ,muslim attire leaders of jaipur used before burkas achieved hegemony
+__label__is_anagram ,historical region of romania is destroyed
+__label__is_spoonerism ,big cat trainer for spooner
+__label__is_anagram ,felicity's younger and playing indoors
+__label__is_anagram ,stormy daniels went very slowly
+__label__is_cryptic ,do they love all the words in this clue
+__label__is_reverse ,system controlling heat in gun going round and round
+__label__is_homophone ,songs don't work on the radio
+__label__is_anagram ,emperor again forged a loose alliance
+__label__is_anagram ,they blow up both sides — died from grenades exploding
+__label__is_anagram ,tried out volley
+__label__is_hidden ,in course of fever balderdash is spoken
+__label__is_init ,sailor holding it up looks initially like hornblower
+__label__is_hidden ,bacchanalian borgia's ticker tape welcome
+__label__is_anagram ,frantic if centre is moved
+__label__is_cryptic ,take off some weight
+__label__is_anagram ,american vessel in elm tossed in the drink
+__label__is_anagram ,worry that endlessly flying planes must be this
+__label__is_anagram ,one of many voting in referendum for 18 lacking guts
+__label__is_anagram ,one frequently changing ruffled hem on lace
+__label__is_anagram ,get queasy in boat
+__label__is_anagram ,closely follow sister with lamp at war
+__label__is_cryptic ,homely but in a really big way
+__label__is_anagram ,pre war oslo abandoned renewable resource
+__label__is_anagram ,hillary seen upset could be this that bill didn't do slyer possibly
+__label__is_double ,cursed pupils not working
+__label__is_anagram ,he'd watch stars score in cup upset
+__label__is_homophone ,reported one hacking jewellery store
+__label__is_delete ,reduce vocal performances shortly for recordings
+__label__is_hidden ,order not entirely predictable
+__label__is_anagram ,nuts put my daughter in hospital and put my nuts in boiled ale and brandy
+__label__is_hidden ,snuggle up dressed in finest leather
+__label__is_hidden ,partway through trek i lost weight
+__label__is_anagram ,criminal activity could be unpoetical
+__label__is_anagram ,gold on cheap feathered hat
+__label__is_anagram ,prehistoric piece noel composed
+__label__is_homophone ,does it suggest whit jock's enclosed
+__label__is_cryptic ,where to store the work of artists
+__label__is_anagram ,rock publicity stunt right later featured in web location
+__label__is_anagram ,kennedy's one lion repositioned in 7th street
+__label__is_anagram ,so slim perhaps and supple
+__label__is_anagram ,show up long defective clearing mechanism
+__label__is_init ,athenian turmoil is may's opportunity — new leaders wanted
+__label__is_reverse ,desert bar as one male enters rolling about
+__label__is_anagram ,unfit rue running after this
+__label__is_anagram ,rudimentary structure by incomer
+__label__is_anagram ,shy pair nervous on date at first – this may help float their boat
+__label__is_&lit ,would others consider us mad covering nether regions
+__label__is_anagram ,said sale is fixed and charged
+__label__is_reverse ,island‘s ace party swinging
+__label__is_anagram ,unfortunately it's my canon that's affected devotion
+__label__is_double ,have a course executed
+__label__is_anagram ,squid after cooking hope pal is into seafood
+__label__is_anagram ,hit in edinburgh street on stretcher
+__label__is_homophone ,golf course reportedly a beast
+__label__is_hidden ,some guinness female companions keep
+__label__is_anagram ,collects the rags for recycling
+__label__is_reverse ,slander upset cooks in scottish town
+__label__is_delete ,allowance southend given space takes hint
+__label__is_reverse ,no musical info given up
+__label__is_hidden ,capital city has a proportion of brothels in kingdom
+__label__is_anagram ,he imagines deviant saint breaking abstinence
+__label__is_anagram ,horse moving damn badly needed to make ground
+__label__is_hidden ,what the romans found when they came north across the border yes and no
+__label__is_anagram ,unreliable friends have nothing for one to request
+__label__is_anagram ,i'd piece prepared about mass outbreak
+__label__is_homophone ,colouring‘s fading it's reported
+__label__is_double ,pokes fun at bum
+__label__is_anagram ,possibly flat surface in new unopened screen
+__label__is_init ,stick or carrot's first to lead one falling behind
+__label__is_homophone ,gossip column's latest exploit reported
+__label__is_anagram ,reasons barking isn't venice
+__label__is_anagram ,crises one somehow managed in economic decline
+__label__is_reverse ,record of democrat loser – crappy
+__label__is_anagram ,wise getting pet in as barking
+__label__is_anagram ,what's better than a full house as cause for reform
+__label__is_anagram ,what goes to make suit one likely to bungle height
+__label__is_cryptic ,released single
+__label__is_anagram ,moronic sort of letter
+__label__is_homophone ,see 16 overheard a salacious hint
+__label__is_anagram ,bitter when jungle fever affected all but jack
+__label__is_anagram ,hairy fairy vagrant accepted in hotel
+__label__is_anagram ,rest ordered following backing of nurse
+__label__is_anagram ,donne upset this is in sight
+__label__is_anagram ,flyers provided with a uniform in a clapped out van
+__label__is_homophone ,name state of north american mountain region
+__label__is_anagram ,what'll get you aloft none i agree if out of order
+__label__is_cryptic ,they come together to eat
+__label__is_hidden ,plant concealed by wild rose rarely
+__label__is_anagram ,sound of painful attack – wrestling manoeuvre
+__label__is_palindrome ,sound horn travelling to and fro
+__label__is_anagram ,law refreshed with a modern equal op lord mayor in waiting
+__label__is_anagram ,fish identified by its angry writhing
+__label__is_anagram ,land is devastated by ancient muslim warrior
+__label__is_anagram ,negotiator obtained when mad pilot goes berserk
+__label__is_cryptic ,it may give a shop a name
+__label__is_anagram ,one mexican speciality or another company polished off before sickness
+__label__is_anagram ,world organisation angry with brussels power that's natural
+__label__is_anagram ,“ratty” making sure a knot can be undone
+__label__is_anagram ,beginning ready to get knocked out
+__label__is_anagram ,prepared bean soup served by a court officer
+__label__is_hidden ,inside area of oche toe roughly straight
+__label__is_anagram ,breaking one's heart 1 0 england out
+__label__is_init ,was made duke keeping leader of lords fixed to the spot
+__label__is_homophone ,sound of gong and fiddle
+__label__is_alternate ,conceal oddly art of great lexicographer
+__label__is_anagram ,looking back vagrant lost again
+__label__is_cryptic ,educated at home
+__label__is_anagram ,ostrich is running and so on
+__label__is_reverse ,confusion which gets them upset – and cat upset too
+__label__is_anagram ,nick something from santa's sack
+__label__is_homophone ,photograph of my bird dorothy say
+__label__is_reverse ,postpones advertisement about sending back unopened mail
+__label__is_anagram ,say you know brad pitt pardon me but that's ridiculous
+__label__is_anagram ,graduate training manual
+__label__is_anagram ,desperate appeals to protect mother producing a lump in your throat
+__label__is_anagram ,dismal churl's plea out of order
+__label__is_anagram ,roman's at sea – one on bireme perhaps
+__label__is_anagram ,prune i gathered not ready to eat
+__label__is_cryptic ,little one may have voted for brexit
+__label__is_anagram ,songs from ‘the king and i' having crazy women about
+__label__is_homophone ,lady 's heard to ask if pretty girls are more devious
+__label__is_double ,take a little salt with …
+__label__is_hidden ,country people ban one night stands
+__label__is_homophone ,detected as a group of animals will be here
+__label__is_reverse ,look back and study past
+__label__is_anagram ,antisocial sort having gall to rue getting sloshed
+__label__is_anagram ,oversexed chap has lead then every third in stray cycling
+__label__is_anagram ,welder renovating the sheltered side of a ship
+__label__is_homophone ,character from tv movie – reportedly it's about the world of dickens
+__label__is_homophone ,principal meal picked up on tray
+__label__is_double ,remixesalbum track
+__label__is_reverse ,indian chief 100 with very bad back
+__label__is_anagram ,what's read out after article 27
+__label__is_reverse ,looking for a publication on climbing
+__label__is_anagram ,smart thieves bamboozled suckers
+__label__is_double ,what could be drawn illicitly in jacket
+__label__is_delete ,in the view of doctor hospital ward closure limits resistance for mite with parasitic larva
+__label__is_anagram ,prime cuts of tenderloin in butter including a shankbone
+__label__is_homophone ,archbishop's envoy reported delay
+__label__is_double ,display mirror
+__label__is_homophone ,consider manner in speech
+__label__is_homophone ,we hear doesn't go smoothly
+__label__is_cryptic ,nut cases
+__label__is_contain ,net otherwise closed by egypt
+__label__is_hidden ,argentine marksman formerly in england taking part in uprising of belize veterans
+__label__is_double ,bird changes colouring
+__label__is_anagram ,train's stopping point is not at barking
+__label__is_anagram ,old student pair visits circus in motion
+__label__is_init ,where paris took helen painting in spring
+__label__is_cryptic ,deadlines
+__label__is_anagram ,fences fool put up to protect ladies in trouble
+__label__is_anagram ,change of diet
+__label__is_homophone ,place quote in speech
+__label__is_anagram ,ill disposed ladies to be separated
+__label__is_delete ,is it not commonly aussie can cut boomerangs
+__label__is_anagram ,pole dancing with sex four charged
+__label__is_hidden ,part sympathetic part pretentious
+__label__is_reverse ,under no circumstances say each word back in retaliation
+__label__is_hidden ,soak pretty clothes
+__label__is_anagram ,forgets my sails may be badly rigged
+__label__is_cryptic ,one taking a bad view of everything
+__label__is_anagram ,oriental god possibly seen in proportion
+__label__is_hidden ,guy is into pasta – yummy
+__label__is_cryptic ,reveal oneself to be a beastly coward
+__label__is_anagram ,following trustee wrapped up in unnatural fear
+__label__is_anagram ,thin and pale we try a doctor
+__label__is_cryptic ,our index of flirtation
+__label__is_anagram ,connecting areas this diverse motorway
+__label__is_double ,like a candle‘s base
+__label__is_hidden ,shy bride clutching cross
+__label__is_anagram ,science lab is terribly hard to reach
+__label__is_anagram ,refrain from false hope supporting turbulent priest
+__label__is_reverse ,turning up in woman's top i borrowed from 21 inn
+__label__is_anagram ,extremely nice pair of legs flirting with a three times potential leader briefly
+__label__is_anagram ,coin and ingot melted down concealing identity
+__label__is_cryptic ,such a girl presumably doesn't keep her boyfriends hanging about
+__label__is_anagram ,recital review seen in the paper
+__label__is_reverse ,chartered accountant turning up with little money shows stress
+__label__is_anagram ,unctuous quality of neil is so unpleasant
+__label__is_anagram ,northern aristocrat many suspect to be an underachiever
+__label__is_hidden ,reply from lesbians we respect
+__label__is_cryptic ,one can draw on what surprises may send up
+__label__is_&lit ,what you'll get from soprano close to g s
+__label__is_anagram ,the ice is broken by it whizz
+__label__is_homophone ,waspish delivery of service at 17
+__label__is_anagram ,garlands from exotic
+__label__is_homophone ,material girls in conversation
+__label__is_reverse ,certainly taken aback by abrupt gesture of respect
+__label__is_anagram ,at lord's difficult track for ed
+__label__is_hidden ,district held by rebel troops
+__label__is_cryptic ,result of not passing an oral examination
+__label__is_anagram ,reprove wrinkly as going to seed
+__label__is_anagram ,performances in concert galvanized singer yes
+__label__is_anagram ,sure goats can be mistaken for a reptile
+__label__is_anagram ,maine's not mistaken for another state
+__label__is_hidden ,adversary in satan ticklish
+__label__is_hidden ,biblical reading in sanskrit
+__label__is_cryptic ,it may have a good nap on the flight
+__label__is_anagram ,not being subjective used no straw for construction
+__label__is_&lit ,sick jokes
+__label__is_anagram ,harry potter i've made my choice
+__label__is_anagram ,change amount it is put about
+__label__is_anagram ,main barrier takes a little time to split weaker bar that's damaged
+__label__is_double ,down‘s daughters must be kept in line
+__label__is_double ,one responsible for dodgy deliveries he was at home in bed
+__label__is_delete ,bloodsucker sadly piercing bull's head also called for a pudding
+__label__is_anagram ,more worried counterfeits are in use
+__label__is_homophone ,treasury base had struggle with pounds say
+__label__is_anagram ,blue car in crash can only get worse
+__label__is_anagram ,punters search distractedly for pickpocket
+__label__is_homophone ,beware of reported laid explosives
+__label__is_anagram ,working on intelligence set more nuclear bombs outside
+__label__is_contain ,will get porcelain round for grinding
+__label__is_cryptic ,food critics have had more of them than you
+__label__is_reverse ,king donning oriental reflective dyed fabric
+__label__is_anagram ,see 23 punishing repayment loan contents lost forever
+__label__is_reverse ,communist uprising blocks proposal for temperance
+__label__is_&lit ,unit – expression involving heat primarily
+__label__is_cryptic ,cut of meat
+__label__is_cryptic ,moving house
+__label__is_anagram ,unhappy characters in america to scold politician
+__label__is_init ,start to fall in french bog
+__label__is_hidden ,fastening some tinsel at christmas
+__label__is_anagram ,rock emits no water
+__label__is_cryptic ,arm offensively thrust out
+__label__is_anagram ,very thin leek last to be cooked
+__label__is_anagram ,start off intensely worried about a novel
+__label__is_cryptic ,they leave their coats on the wall
+__label__is_homophone ,factions have a way of multiplying we hear
+__label__is_reverse ,stake zero in space rockets
+__label__is_double ,blast that thin skinned racist from new york
+__label__is_init ,look with the introduction of ceiling you'll have two floors
+__label__is_anagram ,put maze in new arrangement including hint of rectangular shape
+__label__is_anagram ,wave going over as two loose packs in the hold
+__label__is_reverse ,in tokyo change one's unopened presents around
+__label__is_cryptic ,those in italian society who break the rules
+__label__is_anagram ,react badly about dodgy grid that's filled with ink
+__label__is_anagram ,historian chap confused with gen horror
+__label__is_anagram ,worrying results adapted to cover science fiction
+__label__is_cryptic ,they prevent friction when put in a race
+__label__is_homophone ,second person to take a cab ride reported good arrangement
+__label__is_anagram ,neighbours' idiom simulates an air that's relaxed
+__label__is_hidden ,really essential to deliver yorker
+__label__is_anagram ,man on the radio when most of us are asleep
+__label__is_cryptic ,airplane a presidential one
+__label__is_cryptic ,what to eat during lent
+__label__is_anagram ,big game shot
+__label__is_init ,what's downy after start of pogonotomy i fail to keep
+__label__is_delete ,second string player's beginning to go off
+__label__is_cryptic ,chap that adheres to the standard theory of over promotion
+__label__is_hidden ,knife taken into constabulary
+__label__is_double ,swelling crowd
+__label__is_anagram ,real loss of work at showroom
+__label__is_anagram ,smile cos' it could be a grammatical error
+__label__is_anagram ,confuse discombobulated minister do
+__label__is_anagram ,keeps running off posters
+__label__is_cryptic ,the point of growing roses
+__label__is_cryptic ,footholds on the mount
+__label__is_hidden ,subject covered by goethe methodically
+__label__is_hidden ,identical bespoke quality trousers
+__label__is_init ,look — seed inside a caper
+__label__is_reverse ,spirit phenomenal when up for puzzle
+__label__is_cryptic ,route taken by boxer to the bout
+__label__is_anagram ,toss it carelessly to a young hooligan
+__label__is_anagram ,star model modelled for painter
+__label__is_contain ,france possibly bitter about alliance
+__label__is_cryptic ,joined by kids wanting to see a picture
+__label__is_hidden ,slide down a mountain in a bearskin
+__label__is_anagram ,vessel drawing mild disapproval when sticking in a bog anyhow
+__label__is_hidden ,sound found in arabic language
+__label__is_hidden ,wrapped by underwear i gain empty nut — that's capital
+__label__is_reverse ,annoyed cheese supplier turned up after end of dinner
+__label__is_hidden ,in the middle of shopping centre molotov cocktail causes vibration
+__label__is_anagram ,tired having run 3 as opener shame
+__label__is_hidden ,thatcher mitty like concealing the loner
+__label__is_anagram ,historically foreign old aunt translated
+__label__is_anagram ,kitchen equipment creaks so go for a refit
+__label__is_init ,knocked off perhaps having supply gone till tomorrow initially
+__label__is_init ,chance of director demanding session for beginners
+__label__is_anagram ,most complicated threads to embroider
+__label__is_anagram ,regret at having made investment purchase error seems careless
+__label__is_anagram ,van battered with use shows blemish
+__label__is_anagram ,remix it as new york state of mind
+__label__is_anagram ,bacon and mash dished up – something for the traveller
+__label__is_anagram ,swarm of relaxed fit etonians
+__label__is_anagram ,class should be entered in new exam i shout
+__label__is_anagram ,rewritten play is one part embracing ‘south pacific'
+__label__is_cryptic ,short game
+__label__is_anagram ,covered passage getting a cadre in a tizzy
+__label__is_anagram ,they may make nurses go out with them – to the theatre
+__label__is_homophone ,diamond did you say prepare to propose
+__label__is_hidden ,“despondency” nicely encapsulates pessimist
+__label__is_init ,highlight a double headed coin
+__label__is_&lit ,undemanding music say is in gentle broadcast
+__label__is_anagram ,dance waving pretty sash
+__label__is_hidden ,individual comes into money
+__label__is_anagram ,high point in treatment of arioso seen in choral works
+__label__is_hidden ,some find a bikini bizarre in spanish resort
+__label__is_reverse ,mist occasionally rising then fading and clearing up
+__label__is_hidden ,some flower at heligan blooming early
+__label__is_anagram ,one more on earth that spins
+__label__is_init ,financier making name in mumbai one abandoned by mother initially
+__label__is_anagram ,mainly cruel manoeuvres by count
+__label__is_init ,death's head is used to indicate footnotes
+__label__is_anagram ,tireless working to keep one clean
+__label__is_cryptic ,pet for the ancient mariner
+__label__is_hidden ,april's multimodal component
+__label__is_homophone ,how a bird goes for a song that's audible
+__label__is_reverse ,escape entry having dined on reflection
+__label__is_anagram ,see an invalid become less critical
+__label__is_cryptic ,where to lay your head on the line
+__label__is_anagram ,nun departs running amok in knickers
+__label__is_reverse ,see 5 yes sailor served up a type of bean
+__label__is_init ,information describing a third activist initially
+__label__is_anagram ,possibly tore in from the east
+__label__is_hidden ,part of press immersed in scoop — late news
+__label__is_anagram ,start off badly in cast below strength
+__label__is_double ,book classic chuckle brothers routine
+__label__is_hidden ,one part of oracle residing in tauric mythology
+__label__is_cryptic ,break away order from apiarists cancelled
+__label__is_anagram ,most made out knight's winning move
+__label__is_reverse ,brothers returning for service
+__label__is_anagram ,ice crushed with broth not so well made
+__label__is_anagram ,middle distance for muscovite run in singlet
+__label__is_anagram ,nazi necktie modelled in film
+__label__is_hidden ,the face of sharia law
+__label__is_hidden ,an element of strange ongoings
+__label__is_contain ,i thought that was exactly what they did 20 little man pockets million — a fortune
+__label__is_anagram ,day drunken mate imprisons mate in tree
+__label__is_anagram ,wrongly ban item of electronic music
+__label__is_&lit ,work that involved colour spectra originally
+__label__is_reverse ,classical father arranged authentic backing
+__label__is_cryptic ,person with two hips
+__label__is_anagram ,fiddle with air in tyre of course
+__label__is_hidden ,appears in what's a risqué garment
+__label__is_double ,one keen on a flutter brenda
+__label__is_double ,inflexible part of ship
+__label__is_init ,catalogue includes zurich's first composer
+__label__is_hidden ,stuffing of sage rosemary being worthy of praise
+__label__is_anagram ,confuse maids with a lot of milk producers
+__label__is_cryptic ,something troubling your eyelid primarily
+__label__is_anagram ,sour spice used in and around lent
+__label__is_cryptic ,even the most generous would be deaf to such appeals
+__label__is_anagram ,put out of action by baddies running round lake
+__label__is_reverse ,nautical warning for new mists over rising mercury
+__label__is_anagram ,whose epic developed into outstanding example
+__label__is_cryptic ,the good side of a split personality
+__label__is_anagram ,seafood with a hint of lemon and sorbet cocktail
+__label__is_init ,short day beginning to end
+__label__is_cryptic ,held in great affection
+__label__is_anagram ,lose voter upset by former president
+__label__is_cryptic ,organ with a drum
+__label__is_anagram ,flower girl and criminal
+__label__is_anagram ,drew attention to idealistic founders
+__label__is_reverse ,this month see about showing some panache
+__label__is_anagram ,scots small vessel misrepresented as enemy site
+__label__is_cryptic ,bill's opponents
+__label__is_reverse ,flew alien over in hoax
+__label__is_delete ,having wiped back beast is dry
+__label__is_cryptic ,one opposed to people getting on
+__label__is_double ,fruitcakes or ingredients for them
+__label__is_hidden ,scots frompart of south rannoch
+__label__is_hidden ,college close to neglected houses
+__label__is_anagram ,two thirds of grotto collapsed around rock amphibian
+__label__is_spoonerism ,spooner's to come across kind hearted energy supplier
+__label__is_hidden ,here sheltered from gale effectively
+__label__is_hidden ,fish caught in rosslare
+__label__is_reverse ,poet seen as old and modern looking back
+__label__is_double ,clinton's behind democratic mascot
+__label__is_anagram ,oil wasted on voyage to get to port city
+__label__is_anagram ,unhappily citified beast forgetting it's de lovely
+__label__is_cryptic ,story of english record conveyed in a message
+__label__is_anagram ,lady in pants cuddles friend in vivacious fashion
+__label__is_anagram ,if thing's splattered with gin it's common in most parties
+__label__is_hidden ,scent from faro mat is exquisite
+__label__is_homophone ,heard long joke's synopsis
+__label__is_cryptic ,used by athletes it helps to make a record
+__label__is_homophone ,cove with hot spring say
+__label__is_anagram ,hotel employee there excited about topless girls
+__label__is_anagram ,world of entertainment mickey mouse deadly sin inspiring revulsion in the end
+__label__is_anagram ,bog soul scrambled round
+__label__is_cryptic ,many nazis were armed with this
+__label__is_anagram ,blast affected tenor's ear
+__label__is_hidden ,selection of clean tools in greenhouse
+__label__is_anagram ,hit strongly in front of wicket around end of second over
+__label__is_anagram ,grey gee transported scottish pedlar
+__label__is_double ,school group of excellent quality
+__label__is_homophone ,not much go reportedly
+__label__is_anagram ,cold as shelter in ruinous condition
+__label__is_cryptic ,shakespeare's playhouse in the round
+__label__is_anagram ,tissue transplant operation — developed lazy stoop
+__label__is_anagram ,agile duo involved in conversation
+__label__is_cryptic ,support for one who is lying
+__label__is_anagram ,magician‘s awful errors probed by church
+__label__is_hidden ,name observed in some cathedral banners
+__label__is_double ,perhaps i could be a permissive sort
+__label__is_cryptic ,they may be shocking swimmers
+__label__is_reverse ,masculine stratagem in rising river's working
+__label__is_anagram ,support from nastier bullying
+__label__is_anagram ,set out programme to develop potential
+__label__is_anagram ,organizers of carnival were excited with king opening it
+__label__is_double ,computing system you might find on chopper
+__label__is_anagram ,run dodgy trade in cars on the contrary
+__label__is_anagram ,small weak brandy drunk polishing off book non sense
+__label__is_anagram ,guard the stupid girl
+__label__is_&lit ,primarily berths enabling dossing sessions
+__label__is_hidden ,elitist rifle range welcoming dilettante
+__label__is_cryptic ,criticise the effect of a loose bearing
+__label__is_cryptic ,smart to take shelter from throwing ice down
+__label__is_anagram ,upset due to threats but resolute
+__label__is_anagram ,caught dace on trent when spinning intensified
+__label__is_hidden ,feeling essential to brass ensemble
+__label__is_reverse ,exactly what the bare bosomed have rejected
+__label__is_hidden ,blue and put in lead ultimately
+__label__is_cryptic ,web designer gives one a turn
+__label__is_anagram ,injure in spar
+__label__is_homophone ,gull in trees with aspiration we hear
+__label__is_init ,fear head chopped off in mistake
+__label__is_anagram ,strange moan drowns fragment i dream
+__label__is_anagram ,finance advanced on balkan redevelopment
+__label__is_homophone ,sounds like a plan for a bit of a junket
+__label__is_anagram ,trace son mistreated by forebear
+__label__is_cryptic ,too great a toll
+__label__is_cryptic ,one is vertical in flight
+__label__is_anagram ,faithful rag dolly a daughter mislaid
+__label__is_reverse ,suggestion mother should ring old detectives up
+__label__is_double ,using a comb is challenging
+__label__is_double ,swimmers in shallow waterstruggle to move
+__label__is_hidden ,main nerve centre hidden
+__label__is_cryptic ,it's a blow that has to be faced
+__label__is_anagram ,writer at home opening a punnet of nuts
+__label__is_reverse ,stupid oaf into deer over shellfish
+__label__is_anagram ,however unlikely lame odds for defeat
+__label__is_cryptic ,breakdown in deliveries
+__label__is_anagram ,japanese divine composed endless nonette
+__label__is_hidden ,normal leg room more than adequate for old car
+__label__is_contain ,dodgy dealer keeps cracking ceramic items
+__label__is_anagram ,continues being naughty in rumba maybe creating upset
+__label__is_cryptic ,a company that floated to avoid liquidation ended up here
+__label__is_hidden ,see inside vessel yacht
+__label__is_cryptic ,what an mp stands for
+__label__is_hidden ,some harbour dues with which indians are conversant
+__label__is_anagram ,see 12 across song more fancy than essay
+__label__is_cryptic ,have an inspiration
+__label__is_cryptic ,specialist in stopping admissions
+__label__is_init ,spider first glimpse of such somewhere in middlesex
+__label__is_anagram ,such inexperience with government involvement could be negative
+__label__is_double ,start of bidding resting with south more than one club's crazy
+__label__is_anagram ,with warm rub athlete's foot turned pale brown
+__label__is_anagram ,pest possibly slain in the garden
+__label__is_double ,swanky big supporter breaks leg on golf course
+__label__is_anagram ,fighter doctored torn receipt
+__label__is_homophone ,collar by the fairway say
+__label__is_anagram ,painter showing variety of planet's scenery
+__label__is_anagram ,man offering shelter and freedom to snore
+__label__is_homophone ,local government advice for auditors
+__label__is_anagram ,reader confused about contrary poem that's esoteric
+__label__is_hidden ,yes it comes across something funny
+__label__is_reverse ,smartening it up repeatedly given a hand but no head
+__label__is_cryptic ,an increase in sales of one way elevator
+__label__is_homophone ,influenced kid when speaking
+__label__is_cryptic ,craftsmen with inflationary effects on their products
+__label__is_anagram ,just like those spanish rascals to have queries withreforms
+__label__is_anagram ,he wrote poems about revolting greed and oil
+__label__is_homophone ,said “contract” fool
+__label__is_&lit ,response of some leaders to brexit crisis might be put into words as “we'll just have to lump it”
+__label__is_cryptic ,what one said after reflection
+__label__is_hidden ,sheets maybe a bit small in envelope
+__label__is_init ,mission accomplished like another military operation on all fronts
+__label__is_cryptic ,disposition of arms
+__label__is_cryptic ,contemplating truancy
+__label__is_init ,make milky coffee initially tasteless
+__label__is_homophone ,basic standard the head voiced
+__label__is_anagram ,lord if drunk becomes flushed
+__label__is_cryptic ,one has to be what one is
+__label__is_anagram ,blasted tonnes i picked up garnering latent hostility
+__label__is_anagram ,without showing emotion throw bun that connects
+__label__is_anagram ,coming from china it is bottled in italy
+__label__is_hidden ,poor trainee dyslexic to some extent
+__label__is_homophone ,feeble like an old reaper might you say
+__label__is_anagram ,not the dog star – cur star second in luminosity possibly
+__label__is_anagram ,english male brought in recent reforms main focus of attention
+__label__is_delete ,made charts of east london showing underground passage
+__label__is_anagram ,daring german sabotaged a maser miser
+__label__is_anagram ,very briefly a potential leader males do fancy
+__label__is_reverse ,everglades resident chasing game up ohio river
+__label__is_anagram ,her co star excited a lot of players
+__label__is_anagram ,thickening misguidedly eat nothing – charm about lost
+__label__is_palindrome ,god's dog and ten animals i slam in a net perhaps
+__label__is_cryptic ,whose patients are laid back yes and no
+__label__is_hidden ,daughter tucked into french mum's fruitcake
+__label__is_anagram ,nakedness for all to see in dirty bit has shocked
+__label__is_cryptic ,almost the end of the match
+__label__is_cryptic ,might it be served at a stag party
+__label__is_hidden ,feeble attempt to contain minor complaint
+__label__is_cryptic ,something helpful that may get you into oxford
+__label__is_double ,round notice
+__label__is_anagram ,mud it's a winding track …
+__label__is_anagram ,protestant doctrine hard to find in one ulsterman unexpectedly
+__label__is_homophone ,wanderer‘s audible pain understand
+__label__is_anagram ,fresh paint is unsuitable
+__label__is_anagram ,tender marshal is unarmed
+__label__is_anagram ,perks in brief fine gents exploited
+__label__is_&lit ,unpleasant sensations lacking love
+__label__is_anagram ,lover of paris – sainte chapelle place she is at excited
+__label__is_anagram ,bony part of cuttle fishmuddled up sei
+__label__is_cryptic ,first class fare for the olympics
+__label__is_anagram ,ape cut fruit and chewed a nut
+__label__is_homophone ,fat it is said of the land
+__label__is_homophone ,see you around food that's picked up
+__label__is_&lit ,the farewell
+__label__is_anagram ,unfortunately i cannot hold back
+__label__is_spoonerism ,drops to the floor as does spooner's limbo dancer
+__label__is_anagram ,booze spread carol's bum
+__label__is_cryptic ,madeleine might be seen at this retailer
+__label__is_cryptic ,comfortable place for dispensing impractical advice
+__label__is_homophone ,devotee of demeterwent off by the sound of it
+__label__is_anagram ,a certain form of dumbing down in fancy editions i rewrite
+__label__is_anagram ,old moral qualities mixture of true elation and extremes of values
+__label__is_hidden ,a drink of claret is an exception
+__label__is_homophone ,supports members of a house audibly
+__label__is_cryptic ,one's tied up in oxford
+__label__is_&lit ,where to find the french work of art out east
+__label__is_init ,acting chairman tables agenda to begin proceedings
+__label__is_anagram ,exciting bloke made tiny changes
+__label__is_init ,zulu champion relinquishing crown for nothing
+__label__is_anagram ,men let oil re form as a cream
+__label__is_anagram ,do bart and homer play a bit on computer
+__label__is_anagram ,articles about resolution of crime in the country
+__label__is_cryptic ,old writer playing in a doll's house
+__label__is_cryptic ,reportedly like the wine store's sticky stuff
+__label__is_spoonerism ,spurn point according to spooner a great source of vitamin d
+__label__is_cryptic ,sinister supporter of royal escutcheon
+__label__is_anagram ,is right to be represented as fierce
+__label__is_anagram ,simple decision to redesign bar in reno
+__label__is_delete ,tip over mock seaweed
+__label__is_anagram ,unit is possibly roman naturally placed
+__label__is_reverse ,capital way to take a spin around oxford
+__label__is_anagram ,see 4 down antagonise liberal mp running english town 10 3
+__label__is_anagram ,medical expert in lesion doctoring possibly
+__label__is_anagram ,meddle in what could be seen as inept role
+__label__is_init ,america goes in primarily hand over fist fish
+__label__is_reverse ,upland volcano rising in adjacent space
+__label__is_hidden ,more recent tune we recognise partly
+__label__is_anagram ,petrify as rocks if set to be crushed by boa
+__label__is_anagram ,plant producing fragrance in a gentle wind
+__label__is_init ,mucker i'll be shifting first to last of rich soil
+__label__is_anagram ,writing in sounds — the simpsons frame lost in translation
+__label__is_anagram ,doctor inserts wad in poor condition
+__label__is_anagram ,atmospheric phenomenon damaging as torural air
+__label__is_anagram ,legion ever on the move in something like khaki
+__label__is_cryptic ,it may get upset over trifles
+__label__is_cryptic ,cleric with a prior appointment
+__label__is_double ,plain paper
+__label__is_anagram ,me i'm adult i can surf all the different channels
+__label__is_double ,what one should put brakes onpub staff do
+__label__is_cryptic ,verse that's initially puzzling
+__label__is_anagram ,must ripe bananas become the least wholesome
+__label__is_anagram ,unprincipled blair – pest due to be replaced
+__label__is_hidden ,prepare to fence broken garden walls
+__label__is_contain ,fight to stop man producing harmful app
+__label__is_homophone ,one now not seen in pub having gone missing drunk
+__label__is_cryptic ,bedtime drinks for birds
+__label__is_double ,fan of metal chair with curved supports
+__label__is_anagram ,scots digging heels in are still letting english in
+__label__is_homophone ,audition for part in defending title
+__label__is_cryptic ,adventurer who packs a punch
+__label__is_cryptic ,result of having a crush on sugared almonds
+__label__is_anagram ,shrinks denim his is ripped
+__label__is_hidden ,spotted dogs swallowing tuber
+__label__is_anagram ,waterproof garment swimming coach put in river
+__label__is_hidden ,weapon used by police in control at hibs
+__label__is_anagram ,part that must be played being ordered to boil bag
+__label__is_reverse ,hold cups up in time
+__label__is_init ,people heading off to the middle to play again
+__label__is_cryptic ,thus unprepared shopper visits supermarket without enthusiasm
+__label__is_hidden ,type of joint involved in stretching elbow
+__label__is_cryptic ,taking up correct flower's variation
+__label__is_anagram ,nails say prepared for examination
+__label__is_homophone ,routes mentioned in greek island
+__label__is_hidden ,certainly dismayed in part
+__label__is_homophone ,syringes creating nervy attitude we hear
+__label__is_init ,quick witted leaders of academia gifted in language especially
+__label__is_anagram ,listened in to experimental reggae with di
+__label__is_hidden ,what he is tickled by is to some extent like dawkins
+__label__is_double ,would one count as peak period
+__label__is_anagram ,precision article cuts tense elastic in opposing directions
+__label__is_anagram ,set point held by redhead converted
+__label__is_anagram ,model upset by small group with their own characteristics
+__label__is_init ,grain initially sold in ounces – one doesn't buy much in warsaw
+__label__is_contain ,snake swallowing piece representing half or quarter of artists
+__label__is_cryptic ,it sounds like i'll land in the water
+__label__is_homophone ,heard composer's 15d
+__label__is_homophone ,dismisses report of something in the wind
+__label__is_&lit ,not a thing for parisian to feed to minou possibly
+__label__is_anagram ,european style of raincoat
+__label__is_anagram ,is over par surprisingly – electronic cigarette required
+__label__is_anagram ,doctor cleans art inherited from forefathers
+__label__is_anagram ,ordering of pieces from mint is a must for me
+__label__is_reverse ,is on the pull turning up in dustcart tattooed
+__label__is_anagram ,reflected an oddball in embroidery
+__label__is_anagram ,note playing resulted in short pieces
+__label__is_anagram ,activity displayed by absurd new college official
+__label__is_anagram ,it saves doctor a bit of leg eradicating the onset of gangrene
+__label__is_anagram ,coming back in baroque entrances
+__label__is_reverse ,met up for coffee
+__label__is_init ,each sunflower head in pot is more delightful
+__label__is_anagram ,slow market affected foundry
+__label__is_homophone ,we're told to continue as author you'll need
+__label__is_init ,scottish leader's first to go far right – nuts
+__label__is_anagram ,itinerant transported mineral
+__label__is_cryptic ,do rats enter canterbury that's poor
+__label__is_hidden ,one taking snap of beatnik only
+__label__is_homophone ,voice sounds camp on the radio
+__label__is_anagram ,marital arrangement to suit the unconventional man – ie a groper possibly
+__label__is_anagram ,pasteur beaten to shreds
+__label__is_anagram ,go with others abroad — gems found travelling
+__label__is_anagram ,eve late may get a lift
+__label__is_cryptic ,flower‘s sudden growth around lake
+__label__is_reverse ,turn back on one's husband being ghastly
+__label__is_contain ,book of verse received by christmas
+__label__is_double ,wrote as agreed
+__label__is_anagram ,… breaks shady oil arrangement
+__label__is_double ,a series under discussion
+__label__is_anagram ,voltaire's article encapsulated by novelist in surprisingly prejudiced outlook
+__label__is_cryptic ,early summers
+__label__is_hidden ,bouquet from casanova romantic
+__label__is_cryptic ,what's special about you being taken wrongly
+__label__is_init ,ducks – appropriate to have head lowered
+__label__is_anagram ,promises made by politicians as i foment revolt
+__label__is_palindrome ,bit of exercise going forwards and backwards
+__label__is_hidden ,capital invested in adjoining abattoirs
+__label__is_anagram ,what's tunable bit discordant taking time to deliver
+__label__is_anagram ,contemptible person in broadcast cut out real artist
+__label__is_anagram ,it gets hot overnight heart rate goes wonky
+__label__is_cryptic ,those deserving a lighter sentence
+__label__is_contain ,new in church — one large screened off section
+__label__is_spoonerism ,spooner's drawn a polished ferry
+__label__is_reverse ,major roads going north crossing motorway
+__label__is_cryptic ,they may be all in a quiver
+__label__is_cryptic ,one turns up to put one in
+__label__is_anagram ,alien dogs barking nearby
+__label__is_homophone ,scaffolder reported stiffness
+__label__is_reverse ,soldier over the hill raised cock
+__label__is_anagram ,avenue for traffic in diverted road utter catastrophe ultimately
+__label__is_anagram ,supporter one captured during spartan wars
+__label__is_cryptic ,problem
+__label__is_double ,oil painting of first and last halves of islands and basque city
+__label__is_hidden ,no active movement participating in popular government
+__label__is_anagram ,earth healing heart
+__label__is_anagram ,caretaker “i was taken in by trojan hoax”
+__label__is_double ,beer making you resentful
+__label__is_anagram ,blend of cashmere i've no idea
+__label__is_anagram ,inability to retire successfully when you've worked as minion
+__label__is_homophone ,trip announced for groups of eight
+__label__is_cryptic ,uncharitable characterisation of a female setter
+__label__is_anagram ,stirrer in scotland being furious lets rip
+__label__is_hidden ,part of the weekend supplement
+__label__is_anagram ,rubbish pile with bronze award
+__label__is_anagram ,developer forged payroll log
+__label__is_init ,gourmet's timeless photo following european article
+__label__is_init ,at first sight typical weather in scotland temperate yet windy
+__label__is_cryptic ,what poets generally do keats and yeats don't
+__label__is_double ,back in a tick
+__label__is_anagram ,turned to “on” chill gear downstairs
+__label__is_anagram ,disastrous year for visionary
+__label__is_anagram ,harry cried – pet's old and feeble
+__label__is_cryptic ,regular current deposits placed here
+__label__is_anagram ,the number of this clue somehow
+__label__is_anagram ,comes to a settlement while unconscious
+__label__is_homophone ,witty in speech it's the whisky
+__label__is_anagram ,party involved in smart changes in leadership
+__label__is_homophone ,look more attractive said jack
+__label__is_anagram ,a vital change for a country
+__label__is_anagram ,one racing off showing lack of knowledge
+__label__is_init ,at first i tried an anagram of “given eleven bids” he 21 gave leaders of ocean going whaler essex nourishment
+__label__is_anagram ,frightful house — i'd move
+__label__is_homophone ,reportedly spot female hair in sewer
+__label__is_spoonerism ,novel storage unit in spooner's kitchen
+__label__is_init ,yeoman drops bit of food
+__label__is_anagram ,crusades destroyed dodgy salesman's stock
+__label__is_cryptic ,clydesidebank robber
+__label__is_delete ,extra mushroom last to be eaten
+__label__is_double ,is in favour oflarge tubswhere students may relax
+__label__is_anagram ,great musicians playing sitar with me
+__label__is_anagram ,regular appearance slightly constrained
+__label__is_hidden ,clothed in carmine a tender red
+__label__is_anagram ,fun talk possibly providing wherewithal for travel
+__label__is_homophone ,survey reported on queen say is source of stink
+__label__is_init ,bugs bunny's first work with queen isabella after vacation
+__label__is_&lit ,in which woman's knickers may end up in a slight twist
+__label__is_anagram ,pm's diary sets out high points of ne african tour
+__label__is_init ,beginning to explain a small bird's direction
+__label__is_cryptic ,getting fed up about midday
+__label__is_anagram ,mammal taking flight at a gun going off
+__label__is_anagram ,lamb say is perhaps unfathomable
+__label__is_anagram ,not so brilliant production of annie ends run
+__label__is_init ,fine wine topped with fruit
+__label__is_&lit ,world traveller
+__label__is_anagram ,form of credit that's cheap hurries to get it
+__label__is_anagram ,swearing hapless bum is buggered without love
+__label__is_anagram ,old shape redesigned
+__label__is_reverse ,sideless runway vehicles making a comeback in goods yards
+__label__is_anagram ,plastic set in fashion a bit
+__label__is_anagram ,insignificant measure manufactured not near me
+__label__is_anagram ,verbena struck the french as worthy of respect
+__label__is_double ,some looker in french city
+__label__is_anagram ,dream king who is from borneo
+__label__is_anagram ,law officer in amendment of note nearly great
+__label__is_homophone ,reported those hacking into bank
+__label__is_anagram ,industries not bothered about a group of workers demanding fairness
+__label__is_cryptic ,appointment one expects to lead to congress
+__label__is_anagram ,backstabbing ally with one “sod off ”
+__label__is_reverse ,where you'll get seconds – doughnuts one picked up
+__label__is_homophone ,really lost sheep we hear
+__label__is_homophone ,old auxiliary second person attacked with debilitating gas we hear
+__label__is_homophone ,hardly any to discuss – what a relief
+__label__is_homophone ,performer sounded low note
+__label__is_delete ,grandee with commandant if in georgia may start heading north
+__label__is_&lit ,big end and gear repaired here
+__label__is_hidden ,combined in vain on expedition
+__label__is_init ,did pound firstly get used on ball
+__label__is_anagram ,settles deal — building to be decorated with mosaics
+__label__is_spoonerism ,hide in asia from spooner's soldier
+__label__is_delete ,mark perhaps left by wound goes purple initially
+__label__is_anagram ,having set inside not a runny fruit
+__label__is_cryptic ,this comes of ignoring established customs
+__label__is_anagram ,epitaphs composed for the most fortunate
+__label__is_anagram ,blair type to play hamlet hardly
+__label__is_delete ,leaflets our herbs consistently start producing
+__label__is_hidden ,one from tyneside taking part in binge or dieting
+__label__is_anagram ,former riding zone is risky hero getting thrown
+__label__is_cryptic ,one can't imagine being without them
+__label__is_anagram ,by chance overheard king smash fine piece of tableware
+__label__is_homophone ,dd across relating to priests saying “rent room at the top”
+__label__is_anagram ,tree found in nepal
+__label__is_anagram ,nothing in a kiln after throwing clay
+__label__is_anagram ,stock production from clay pit
+__label__is_anagram ,winding in and out of ascot henry covered up with a garment
+__label__is_anagram ,part of column stuff mostly rehashed
+__label__is_double ,involved in selection process shown on
+__label__is_anagram ,academic posers for unravelling
+__label__is_homophone ,man wise in conversation around daughter on american prime time
+__label__is_cryptic ,love food
+__label__is_homophone ,list that man will read out
+__label__is_anagram ,prehistoric carnivore one wandering urals – look therein
+__label__is_anagram ,one in race changing place – he's in lead
+__label__is_cryptic ,well provided places for those with boring occupations
+__label__is_anagram ,places drawn roughly to scale
+__label__is_anagram ,practice doctor les unlikely to block a shearer's treatment
+__label__is_hidden ,fernando torres slightly to the right of the centre spot
+__label__is_double ,graham's charactershowing signs of wear and tear
+__label__is_double ,angular measurement issuing in rays
+__label__is_spoonerism ,novelist roald's 23as narrated by spooner
+__label__is_double ,starter for 10likely to be ruled out of court
+__label__is_anagram ,are ties involved with logic or of selfishness
+__label__is_anagram ,tastelessly ornate bric a brac mostly gets recycled
+__label__is_homophone ,something growing in orderly lines it's said
+__label__is_anagram ,cruel joe hart makes one silly bloomer
+__label__is_hidden ,dyestuff used in monarchic apparel
+__label__is_homophone ,where fencing occurs in audience shakespearean was hushed
+__label__is_reverse ,recalled quote that's long having amazing memory
+__label__is_hidden ,slippery character of the elusive type
+__label__is_anagram ,it's unedifying being lied about
+__label__is_anagram ,layabout unusually riled
+__label__is_homophone ,drink tipped on drink say
+__label__is_anagram ,wife into estate or funny small car perhaps
+__label__is_init ,what'll provide lashings first put away in jet
+__label__is_anagram ,piglet's loose unfortunately – one going underground
+__label__is_hidden ,grip umpteenth rally has reserved
+__label__is_cryptic ,one of god's frozen people
+__label__is_cryptic ,freezing point
+__label__is_anagram ,assorted receipts about fifty for drink
+__label__is_anagram ,safe impartial composed old man
+__label__is_&lit ,minutes in match that's run over
+__label__is_hidden ,god of generosity
+__label__is_anagram ,unusual dream is wrongly interpreted
+__label__is_anagram ,dish of a sort cooked
+__label__is_hidden ,instrument of ethiopian origin
+__label__is_init ,feature of this art repels philosopher
+__label__is_anagram ,twinkling gays they're often in evidence at kirk funerals
+__label__is_anagram ,albion maverick may be released
+__label__is_anagram ,new master and merchant
+__label__is_anagram ,flash fan — is it in the box i packed up
+__label__is_cryptic ,what nelson turned to his advantage at trafalgar
+__label__is_homophone ,inspector heard warden over imperfect listening device
+__label__is_anagram ,see hippos frolicking in their stream
+__label__is_cryptic ,vocal stallholder
+__label__is_cryptic ,easy rider's direction
+__label__is_double ,performed shuffling 30s dance bent down under pressure
+__label__is_anagram ,il duce turned out to be a mathematician
+__label__is_hidden ,some immature asses slander judge again
+__label__is_anagram ,it protects clothing from spilled ink after pan is upset
+__label__is_reverse ,for the returning traveller
+__label__is_cryptic ,break away from the craft
+__label__is_homophone ,very much to say is set aside
+__label__is_hidden ,fine point of germanic etymology
+__label__is_hidden ,fishwhich us seamen will be found netting
+__label__is_anagram ,winding round quite tightly primarily restricting vessel with this
+__label__is_anagram ,cruel ban i ordered can't be put right
+__label__is_anagram ,a“screw your fate ” – not what a would be leader should say
+__label__is_double ,trounce in throwing event
+__label__is_homophone ,top dog say
+__label__is_anagram ,nitrogen affected sound of handset
+__label__is_anagram ,sergeant set out to part friends
+__label__is_homophone ,dressed for a military operation we hear
+__label__is_homophone ,frank introducing vital broadcast – very odd
+__label__is_anagram ,leap in cab awkwardly helplessly drunk
+__label__is_cryptic ,thief with hot goods may do this to keep within bounds
+__label__is_homophone ,sound of complaint right to block one out in early part of day
+__label__is_anagram ,aussie skipper's bludgeoned 6 stopping decisive defeat
+__label__is_&lit ,see 25 work that's needed to turn up one's toes after pe on the contrary
+__label__is_hidden ,greek delicacy among buffet adornments
+__label__is_anagram ,amber helps reformed profaner
+__label__is_double ,vanquishesmost terrible things
+__label__is_anagram ,tears linen playing old game
+__label__is_anagram ,wee tina drunk plunged into river
+__label__is_anagram ,aisle i trod awkwardly with second gone to get view of organ
+__label__is_cryptic ,the depth of depression
+__label__is_cryptic ,advice given when one is leaving work
+__label__is_anagram ,dean say organised rite including church music
+__label__is_homophone ,french city state had money
+__label__is_hidden ,paperwork collected by head mindlessly
+__label__is_anagram ,saigon cultivated southern hemisphere trees
+__label__is_reverse ,relinquish possession of institute set in rolling sweet grassland
+__label__is_reverse ,controller set up list with firearm
+__label__is_double ,crash barrier
+__label__is_reverse ,acclaim withdrawal of anti brit sentiment
+__label__is_init ,feature of some trains really aiding passengers at front
+__label__is_anagram ,academic's landlord extended after vacation
+__label__is_double ,meditate moodily on family
+__label__is_cryptic ,you can't enjoy it in company
+__label__is_hidden ,local hillside circled by vehicle eventually
+__label__is_homophone ,sweet innocent thing reportedly hit
+__label__is_anagram ,criminal lost bet and chickens out
+__label__is_anagram ,menial exercises followed by new railway worker
+__label__is_anagram ,divulge informationtwice in prison
+__label__is_anagram ,infection amid lay congregation undermining church
+__label__is_cryptic ,army signalling
+__label__is_hidden ,chubby faced louche rubicund host
+__label__is_spoonerism ,spooner's lean prophet and girl
+__label__is_homophone ,sugarcoating the description of my musical interest
+__label__is_anagram ,they're seen in one hung drawn and quartered for devastating raids
+__label__is_cryptic ,capital investment as a status symbol perhaps
+__label__is_delete ,front of pole lost in river
+__label__is_cryptic ,criticism appropriate for stonewalling cricketer
+__label__is_double ,captaingary
+__label__is_anagram ,crooked prelates in denial of english church property
+__label__is_hidden ,platinum tongue piercing
+__label__is_anagram ,drive home i see as tricky maintaining a measure of speed
+__label__is_cryptic ,might one be confused by form fromdumbledore for example
+__label__is_reverse ,death came back area wiped out by a single plague
+__label__is_reverse ,announcement to put up in french resort
+__label__is_anagram ,art of 60s' dance music in large parties
+__label__is_cryptic ,good enough to get by
+__label__is_cryptic ,standard requirement for pirates
+__label__is_delete ,creepy sounding place that's hard to get to
+__label__is_hidden ,some made centuries honest
+__label__is_init ,mouldings in warehouse front to back
+__label__is_anagram ,not loudly signify most cranky person averse to women
+__label__is_reverse ,retiring say getting very old
+__label__is_hidden ,group of relatives returned key
+__label__is_cryptic ,greetingscore at murrayfield
+__label__is_homophone ,primitive latrine we hear burst in the bothie
+__label__is_reverse ,dealer upset to receive stone for songbird
+__label__is_anagram ,considerstandardclass value
+__label__is_anagram ,swell general assembly
+__label__is_homophone ,waxy whale product seamen reportedly serve it in a turnover
+__label__is_hidden ,part of airliner threatens to be unresponsive
+__label__is_cryptic ,kitchener's formula for success
+__label__is_spoonerism ,pub to which spooner's working girl retired
+__label__is_hidden ,some relief in albums like blackstar
+__label__is_anagram ,raptor isn't one
+__label__is_anagram ,so i'd tip her for an important post in journalism
+__label__is_spoonerism ,horny creatures for spooner's numb bum
+__label__is_anagram ,european disarray evident at the end of the day
+__label__is_homophone ,lute heard however as an old trombone
+__label__is_anagram ,most agree it could be a useless eyesore
+__label__is_hidden ,hungarian setting of nessun dorma for one
+__label__is_hidden ,restrained by portia gold digging shakespearean villain
+__label__is_anagram ,what skinny dipper is at ness swimming in mass of cold water
+__label__is_anagram ,flying seaplane initially disrupts seaside walk
+__label__is_anagram ,the slurs about being callous
+__label__is_anagram ,alien conquest turned out to be significant
+__label__is_cryptic ,stunning performance
+__label__is_double ,sharp reminder
+__label__is_homophone ,palace type reportedly copped one with brenda
+__label__is_anagram ,stress one isn't affected
+__label__is_homophone ,reportedly look thoroughly for shaft
+__label__is_double ,easy chances which artists appreciate
+__label__is_anagram ,supply us with a minder or nanny
+__label__is_anagram ,expert on plumbing and renovation of igloos is in terrible rut
+__label__is_cryptic ,at home relatively speaking in
+__label__is_hidden ,unscrupulous sort causes hysteria to some extent
+__label__is_cryptic ,all countries appear bent on it
+__label__is_double ,cunning opening
+__label__is_cryptic ,holy orders
+__label__is_cryptic ,race bets
+__label__is_cryptic ,entertainer who needed a get out clause
+__label__is_anagram ,film maker‘s shot a scene with it
+__label__is_init ,glaze a special ice cream for starters
+__label__is_init ,rank outsiders in race idiot backed
+__label__is_hidden ,descriptive of small markets found in union i cherish
+__label__is_double ,identified a type of owl
+__label__is_hidden ,urban community contributing to labour gains
+__label__is_anagram ,looking after one's own spot – and mine unfortunately
+__label__is_init ,coastal inlets made by birds a fifth as many initially
+__label__is_anagram ,stick the bubbly in stout
+__label__is_anagram ,lover but to marian a stranger
+__label__is_homophone ,sound honest on the radio
+__label__is_anagram ,wearing more satin that's for evening out
+__label__is_anagram ,old life is transformed in areas yielding fuel
+__label__is_anagram ,gym backs wearing different attire following cold snap
+__label__is_spoonerism ,spooner's pocket shed an old weapon
+__label__is_anagram ,see 12 wound up in detroit after private secretary split
+__label__is_anagram ,scottish pupil aimed to change during current calendar
+__label__is_cryptic ,the estate agent's lying
+__label__is_double ,we will silence more than one comedian maybe
+__label__is_homophone ,boy said to be heathen
+__label__is_cryptic ,a product of good stock
+__label__is_anagram ,chariot crashing losing one colt
+__label__is_cryptic ,crafts based on fundamental duplicity
+__label__is_homophone ,reportedly a route north for the country
+__label__is_homophone ,top methods becoming pronounced in chinese artist
+__label__is_anagram ,favouring fizzy vin at allowance of food
+__label__is_anagram ,river and sea not ruffled by this wind
+__label__is_anagram ,decline to take the favourite route that's meandering
+__label__is_init ,covering area around tip of long island
+__label__is_anagram ,lime i let grow wild
+__label__is_delete ,container with lubricant not commercial product
+__label__is_double ,admiring our boatload from newcastle
+__label__is_init ,cheat that's cornered by knight initially
+__label__is_anagram ,sterile unit fenced off
+__label__is_double ,one belittles attention seeker
+__label__is_double ,drip plugged by daughters with wife
+__label__is_cryptic ,giving rise to food and drink
+__label__is_double ,notice small truck
+__label__is_anagram ,hill fort not badly fortified initially sacked from end to end
+__label__is_hidden ,from around the globe i ruthlessly acquire capital
+__label__is_homophone ,wild cat said to appear where coastal drives occur
+__label__is_homophone ,my band on the radio
+__label__is_hidden ,noticed team mate swallowing cold drink
+__label__is_anagram ,wire tapped party oddball
+__label__is_anagram ,eagles seen flying from west africa
+__label__is_anagram ,politician's time in chief london district
+__label__is_anagram ,skin broken with axe
+__label__is_hidden ,visitors to athens will take in this classical lecture site
+__label__is_cryptic ,rubbish played on violins
+__label__is_anagram ,royal dorm converted into office
+__label__is_anagram ,please co cooking boneless slice of meat cut thin
+__label__is_anagram ,hybrid transplant by artery
+__label__is_anagram ,waffle and crack that led to alice's going down
+__label__is_homophone ,dd 10 across vitamin taken orally it's nearly agreed
+__label__is_homophone ,short treatise followed in recital
+__label__is_anagram ,promotion no – leave it out
+__label__is_cryptic ,coldas 9
+__label__is_delete ,girl married out of spite
+__label__is_anagram ,seasonal song lorca composed
+__label__is_reverse ,sound fellows amid rising cheers giving satisfaction
+__label__is_anagram ,shaped like the earth but able to change
+__label__is_cryptic ,the constitution should be all the better for them
+__label__is_init ,tips of grass in lawn turn gold coloured
+__label__is_anagram ,rooftops mr turner built to withstand the elements
+__label__is_homophone ,resort box by telephone
+__label__is_double ,inclination to hypocrisy
+__label__is_reverse ,earlier group full of energy loudly followed by rising idol
+__label__is_anagram ,very economical price had struggling stores close to debt
+__label__is_anagram ,itinerant weeps stifled by a lack of foreign currency
+__label__is_init ,if boy switches lead to clubs one follows with clubs
+__label__is_reverse ,rain when event is over
+__label__is_cryptic ,power outage possible source of conflict 10 3
+__label__is_delete ,gangster over and over again avoiding jinx
+__label__is_anagram ,she gets tangled with men to become engaged
+__label__is_anagram ,lackey no longer in pink kneels awkwardly
+__label__is_double ,radicalscandinavian
+__label__is_cryptic ,strike that didn't come off
+__label__is_cryptic ,that lumberjackchap
+__label__is_anagram ,disabled chap has time confined to mend
+__label__is_reverse ,joint work about semi aquatic mammal
+__label__is_delete ,field of european football team not banner free
+__label__is_cryptic ,bit of chicken skin under this banger
+__label__is_anagram ,personality faking it deny it
+__label__is_anagram ,a group of crustaceans – they might be cousins
+__label__is_double ,one'sbook
+__label__is_anagram ,rail service tours are all over the place
+__label__is_reverse ,make out on the way back excellent
+__label__is_init ,clip the front of light brown beard
+__label__is_init ,head of science meeting husband in trendy educational establishment
+__label__is_anagram ,tall rogue pummelled offensive drunk
+__label__is_anagram ,criminal fracas breaks out beside church
+__label__is_anagram ,manage gp's first practice
+__label__is_anagram ,master comprehends answer now cracking each across solution
+__label__is_homophone ,lack of will power making one increasingly gaga so it's said
+__label__is_homophone ,glaringly display talent for audience
+__label__is_anagram ,fixing their air con a master of hot air
+__label__is_anagram ,mixed bag in anomaly a few minutes of deep inspiration
+__label__is_hidden ,piece of skill in gambling producing large financial gain
+__label__is_anagram ,untidy bed in castle work of the former chairman
+__label__is_anagram ,rustic cultivated tree
+__label__is_anagram ,installed in car say a boon possibly on road
+__label__is_anagram ,what movement of timer may be worth
+__label__is_cryptic ,see 1accommodating agreement rival losing to guardian tortoise
+__label__is_anagram ,carp for instance about silly oaf's heirs
+__label__is_anagram ,disburses a corrupt series of growth related payments
+__label__is_hidden ,side united generally give a hiding to
+__label__is_anagram ,travelling around i represent business
+__label__is_cryptic ,isn't he particular what he sells
+__label__is_anagram ,drink suppliers were realigned investing in cheese products
+__label__is_double ,… a spirited drink once weekly
+__label__is_init ,headgear worn with jumper
+__label__is_anagram ,the rare meissen smashed into little pieces
+__label__is_double ,showing poor taste like lancashire
+__label__is_anagram ,strangely tall 26 he's desperate to get out
+__label__is_anagram ,range riders do create confusion
+__label__is_homophone ,ways to get a mention
+__label__is_homophone ,indian post haydn sounding game
+__label__is_&lit ,primarily frozen solid
+__label__is_anagram ,one following team perhaps making ru go better with help
+__label__is_cryptic ,risky market trader ponderous type
+__label__is_anagram ,deceptive fault under ground
+__label__is_anagram ,criminal had a nice estate in spain
+__label__is_anagram ,country area goes after cultivation of mostly both oats and rice
+__label__is_cryptic ,quantifiers of liquid science
+__label__is_anagram ,problem part resolved involving heather and tree
+__label__is_cryptic ,bargain that you would expect from reliable timber merchant
+__label__is_hidden ,citrus fruit imported by italian region according to natives
+__label__is_anagram ,ugly mug every one in café cracked
+__label__is_anagram ,ideal territory perhaps for a reviewer
+__label__is_init ,creeping mare's poorly bit of tackle stuck in muzzle
+__label__is_anagram ,declare rodin a lunatic
+__label__is_anagram ,tenor goes wild — something stimulating sexuality in women
+__label__is_anagram ,put on finery and rode out
+__label__is_cryptic ,comb manufacturer
+__label__is_anagram ,those going through life with us and iraq in conflict
+__label__is_anagram ,pandora and i racked with fear
+__label__is_hidden ,pressing monsieur gentilhomme's clothes
+__label__is_anagram ,entrant is processed immediately
+__label__is_anagram ,age 100 appearing in ‘a new hope'
+__label__is_anagram ,possibility when locks long to play in scrum
+__label__is_hidden ,advantage occurring in blood dysfunction
+__label__is_double ,system of weights used for precious metals in ancient city
+__label__is_cryptic ,take things the wrong way
+__label__is_anagram ,learns about hosting knight put into 12
+__label__is_anagram ,ravers dancing in sporty gear
+__label__is_hidden ,hooligan jailed inhaling cannabis
+__label__is_anagram ,like the disciples a co pilot's undergoing conversion
+__label__is_anagram ,defence of a ruck developing under boris's leadership
+__label__is_anagram ,possibly loves to finish the crossword
+__label__is_double ,punk one going over your head
+__label__is_anagram ,in one section needs nutmeg for cooking
+__label__is_anagram ,rang old battered thing making a noise in church
+__label__is_anagram ,objection to one part it's badly translated
+__label__is_homophone ,remained sober we hear
+__label__is_double ,leave claim to reward
+__label__is_anagram ,ground that rider regarded as poor
+__label__is_anagram ,it goes up encased in flexible structure
+__label__is_cryptic ,gates secured by catches
+__label__is_anagram ,frenchman distributed narcotics losing tons
+__label__is_init ,each pupil initially put in requests for sweets
+__label__is_init ,pleased one gets bit of mint not mint
+__label__is_anagram ,food produces a bit of pain in bad tooth
+__label__is_reverse ,working metal soldier's going west young man
+__label__is_anagram ,loose garments provided by mikonos resort
+__label__is_anagram ,shadowy official activated in emergencies
+__label__is_double ,feature of lake district – nothing better
+__label__is_cryptic ,bulldog accompanies one to forage for food locally
+__label__is_anagram ,film with fine plot bard concocted receiving study
+__label__is_spoonerism ,spooner's busy wide bay is part of spanish culture
+__label__is_anagram ,decoration of an island most careless unfortunately
+__label__is_cryptic ,woman receiving elevation through astute use of footwear
+__label__is_anagram ,terrible secrets about the french wife of an important german
+__label__is_anagram ,suicide is painless no – gets me upset outside hospital
+__label__is_anagram ,find ‘nige' is woolly establishing boundaries
+__label__is_homophone ,collect a team say
+__label__is_homophone ,might one have been framed did you say in the jug
+__label__is_reverse ,plunder brought back – it's something to work with
+__label__is_anagram ,cause of ennui or a1 up for decision today
+__label__is_anagram ,at sea triple pace vessel
+__label__is_anagram ,choirs take in new version of what may follow jerusalem
+__label__is_cryptic ,today's most popular writer
+__label__is_cryptic ,one often out on the tiles
+__label__is_cryptic ,denouement for checker's mate perhaps
+__label__is_reverse ,current actor in rising tv shows
+__label__is_double ,showing arms raised arrogantly
+__label__is_init ,articles in english and german initially sycophantic about film director
+__label__is_cryptic ,they are bound to hold different views for instance
+__label__is_homophone ,encourage awareness when holding forth
+__label__is_anagram ,exchanging all of mankind's emptiness
+__label__is_hidden ,bets on gasquet eclipsing his rival
+__label__is_spoonerism ,joint protectors affording spooner vital rest periods
+__label__is_anagram ,pest unfit to be cool leader
+__label__is_homophone ,strutting leader related story for cosmopolitan
+__label__is_cryptic ,reading dandy he flouted the queensberry rules
+__label__is_hidden ,turkey's place is entirely without trimmings
+__label__is_anagram ,frequently one's taking a break in californian city
+__label__is_anagram ,term poet changed in fragment being irritable
+__label__is_hidden ,scandinavian myths collected by gifted dane
+__label__is_cryptic ,they fly or take a train
+__label__is_&lit ,what's this in estonia including little pence
+__label__is_anagram ,shrub requiring exceptional drainage
+__label__is_anagram ,forming bubbles bursting near light
+__label__is_anagram ,temptress has split loyalties yes no
+__label__is_anagram ,he flees north eastern ground in turkey
+__label__is_anagram ,right femur reset – with need for it to be repeated some argue
+__label__is_anagram ,sad ladies go off healthy food
+__label__is_homophone ,plant goin' into coiled shape by the sound of it
+__label__is_delete ,sacrifice no time in playing bach motet
+__label__is_double ,violin or unusually old wind instrument
+__label__is_cryptic ,see 9 bit of a sweet gum ‘ere perhaps
+__label__is_anagram ,renamed new bend in river
+__label__is_double ,landwithout a lot of luggage
+__label__is_anagram ,overuse unfamiliar works
+__label__is_anagram ,broadcast one's denials
+__label__is_anagram ,penalty though not fine a lot
+__label__is_reverse ,murdoch is upset to get an intelligent personal assistant
+__label__is_homophone ,storyteller picked up old instrument
+__label__is_init ,plant science's leading character featured in talk
+__label__is_cryptic ,saying when
+__label__is_cryptic ,they go round in circles
+__label__is_anagram ,religious revelation from drippy hippy with an ‘e'
+__label__is_homophone ,sounds like an ‘e' maybe is a confession
+__label__is_anagram ,people determined to leave his glen ravaged
+__label__is_homophone ,they say think over drink if more than one
+__label__is_&lit ,spruce up m's place
+__label__is_hidden ,author speaks to erudite in crowd
+__label__is_delete ,elizabeth i's favourite beer in curtailed privilege
+__label__is_hidden ,complete arrangement quoting from ballad is popular
+__label__is_cryptic ,rowan pompeii's unexpected visitor
+__label__is_double ,bag for instance
+__label__is_&lit ,springtime opened up opportunity for women
+__label__is_double ,boat set afloat
+__label__is_spoonerism ,find tiny holes in prison of mine for spooner
+__label__is_cryptic ,pitch of the road
+__label__is_anagram ,eastern spies do overcome incidents
+__label__is_anagram ,country area acrostic's constructed about
+__label__is_hidden ,book of letters from bianca mosca
+__label__is_anagram ,sign of financial difficulties – advert for resolution
+__label__is_hidden ,separated in forest rang edinburgh
+__label__is_anagram ,a tiny passage from extravagant opera after cutback
+__label__is_anagram ,one way of letting down tail end of pants
+__label__is_cryptic ,humiliating return from a summit meeting
+__label__is_delete ,actors like empty citadel not one in spanish region
+__label__is_homophone ,“eyelashes” sounds less sensible
+__label__is_anagram ,cadge fresh butter – yours truly finds a third of an ounce or so
+__label__is_cryptic ,a despatch note
+__label__is_cryptic ,it's grand in liverpool once a year of course
+__label__is_anagram ,foolishly lost again in yearning for the past
+__label__is_anagram ,mix ink and water in jersey etc …
+__label__is_homophone ,leader of tribe taking the helm we hear
+__label__is_anagram ,maker's modifiedspecial label
+__label__is_cryptic ,any of the following
+__label__is_init ,front runner in national distance no longer used
+__label__is_cryptic ,line up for daring challenge
+__label__is_hidden ,animal in a novel kind of situation
+__label__is_reverse ,rowing crew starts to examine training after a month
+__label__is_cryptic ,most stupid at any rate in the us
+__label__is_homophone ,sound of german song current number one
+__label__is_init ,tattoos – odd source of rumpus in children's toys
+__label__is_homophone ,restrain asian reportedly
+__label__is_anagram ,labour challenger “hits women” – not true
+__label__is_anagram ,sarcastic old model ruined party
+__label__is_spoonerism ,down according to spooner owed foolish person capital
+__label__is_delete ,raised money disposing of article
+__label__is_hidden ,ask apu two bottles smashed
+__label__is_palindrome ,either way consult
+__label__is_homophone ,prompt's read out lines
+__label__is_init ,intelligence beginning to rise earlier in scots children
+__label__is_anagram ,in full gear suffering after attending opening of library
+__label__is_cryptic ,rearranged articles
+__label__is_anagram ,around utah they add complex tax on what's left
+__label__is_homophone ,sound proposal for old king
+__label__is_hidden ,fancy c listers ringing hoy for one
+__label__is_hidden ,some separation anxiety for judah's second son
+__label__is_anagram ,see 3 golden fur is a euro — that's fake
+__label__is_reverse ,piece of bone rejected by a dog say
+__label__is_anagram ,quite sour out of sorts somewhat blue
+__label__is_hidden ,sea parrot chosen taking part as flier over the set
+__label__is_cryptic ,arms order that's not on the level
+__label__is_hidden ,climbed among debris endlessly
+__label__is_anagram ,editor's tipple mixed by natural historian
+__label__is_anagram ,stage set in extra large retail outlet
+__label__is_init ,to begin with eggs are somewhat traditional eaten regularly now
+__label__is_cryptic ,oriental bamboo fencing
+__label__is_anagram ,throw out bread that's hard
+__label__is_cryptic ,he may have to wait for his money
+__label__is_cryptic ,man who shot kennedy gunner that was
+__label__is_homophone ,part of france – is it like the uk say
+__label__is_anagram ,retire an eccentric old family servant
+__label__is_hidden ,outdoor celebration in tenerife terminated
+__label__is_anagram ,move back and forth releasing the lust
+__label__is_anagram ,quixotic writer never acts in play
+__label__is_double ,don't bake enough coming in for criticism
+__label__is_delete ,low rains emptied uplands
+__label__is_cryptic ,what prompts consumer demand
+__label__is_reverse ,fastest at which rise of the mariana trench
+__label__is_cryptic ,words in action
+__label__is_homophone ,feature is familiar with broadcast
+__label__is_homophone ,rag involving jigs by the sound of it
+__label__is_anagram ,bombed insurgent's house – it's immoral
+__label__is_hidden ,is new olympian holding back old one
+__label__is_anagram ,mocking comments about tatty kits for watersports fans
+__label__is_anagram ,old forerunner of the euro made toni a killing
+__label__is_anagram ,old flue needs replacing that's sad
+__label__is_anagram ,consume mushroom in battered tin
+__label__is_anagram ,end tucked in torn clothing
+__label__is_homophone ,accepted accepted equal once alarm sounds
+__label__is_anagram ,fish and boiled tater
+__label__is_reverse ,discoverer of polarised light almost complimentary backing optical instrument
+__label__is_cryptic ,one hasn't been taught to play by it
+__label__is_cryptic ,leave word for the french
+__label__is_init ,scots on top or when england rallies they're leading
+__label__is_hidden ,part for broadway needing backing singer from ireland
+__label__is_homophone ,mike gets hero heard
+__label__is_cryptic ,or 19
+__label__is_anagram ,mean to put fish in a blue tin perhaps
+__label__is_cryptic ,demonstrated nuptially the triumph of hope over experience
+__label__is_cryptic ,factors in debt collection
+__label__is_anagram ,left wearing torn blouse that can be explained
+__label__is_spoonerism ,room of spooner's small place
+__label__is_anagram ,refuses to acknowledge regions needing redevelopment
+__label__is_homophone ,operating system's sound these people are unproductive
+__label__is_homophone ,try thai sounding recipe that's more wholesome
+__label__is_cryptic ,it used to be very painful
+__label__is_hidden ,covered in seafood our steak smells
+__label__is_homophone ,paul's salamander said to be microscopic
+__label__is_reverse ,free record mostly difficult say to turn
+__label__is_homophone ,hearing battle axe will barter
+__label__is_anagram ,one of 12 with bow as guitarist after a fiddle
+__label__is_anagram ,see 18 down loss paid off in assignment
+__label__is_anagram ,poor decision alas eating starter dish that's cold
+__label__is_cryptic ,cow on the internet to perpetrate this
+__label__is_anagram ,sees term out – this one
+__label__is_anagram ,be taunted about a young socialite
+__label__is_anagram ,cog so pricy to fix spinning as a ship's navigational aid say
+__label__is_anagram ,it's disturbing – unrest in a grave
+__label__is_cryptic ,depression felt by motorists
+__label__is_anagram ,cries on seeing awful climaxes
+__label__is_anagram ,animated image with flowing water depicting suitable presents
+__label__is_delete ,start building haystack on land where construction material is manufactured
+__label__is_init ,beginnings of international rejection are quite injurious for saddam say
+__label__is_double ,salt level
+__label__is_anagram ,nag about nines when one over the eight stimulating stuff
+__label__is_double ,take off pants say to gather information
+__label__is_cryptic ,indication of which station to stop at
+__label__is_anagram ,ruling's remarkable outcome
+__label__is_anagram ,jazz pianist liked long tune to play
+__label__is_anagram ,any small island gets littered with a coral … group such as this
+__label__is_anagram ,gary neville wants training so showing off
+__label__is_anagram ,perhaps sloth yields and topples over
+__label__is_spoonerism ,tinned sort of offal spooner delivers in barrow
+__label__is_anagram ,old bushwhacker 'tis he on the loose
+__label__is_anagram ,see through saul's arrangement — it's a shambles
+__label__is_homophone ,stroke making murmuring sound
+__label__is_cryptic ,not what a good retriever would suffer from
+__label__is_hidden ,the choir's part in response
+__label__is_hidden ,he composed some enjoyable harmonies
+__label__is_homophone ,english novelist discussing frivolous digital feature
+__label__is_reverse ,drainage conduit shut up second half first
+__label__is_cryptic ,drunken ramble ends here
+__label__is_init ,homer simpson's endorsing characters he wanted to phone home with this
+__label__is_reverse ,store finally regretted backsliding after bringing in corrupt security
+__label__is_anagram ,water babies fan sold tape
+__label__is_anagram ,popular street ruined by diversion
+__label__is_anagram ,terribly vocal not entirely pleasant and liable to explode
+__label__is_anagram ,blackish green new look of eurocab
+__label__is_cryptic ,get involved in someone else's business
