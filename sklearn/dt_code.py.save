@@ -1,0 +1,335 @@
+Jupyter Notebook
+decision_tree
+Last Checkpoint: 3 minutes ago
+(autosaved)
+Current Kernel Logo
+Python 3 
+File
+Edit
+View
+Insert
+Cell
+Kernel
+Widgets
+Help
+
+
+1
+from sklearn.tree import DecisionTreeClassifier
+2
+import pandas as pd
+3
+from keras.preprocessing.text import Tokenizer
+4
+import re
+5
+from nltk.stem import SnowballStemmer
+
+cc_types
+1
+cc_types = 'is_anagram  is_homophone    is_double   is_cryptic  is_contain  is_reverse  is_alternate    is_init is_delete   is_&lit is_hidden   is_spoonerism   is_palindrome'.split('  ')
+2
+cc_types_dict = {k: v for v, k in enumerate(cc_types)}
+3
+​
+4
+upsampled_input_cc_types_df = pd.read_csv("../upsampled_train_val_test/train_no_charade.csv")
+5
+val_cc_types_df = pd.read_csv("../upsampled_train_val_test/val_no_charade.csv")
+6
+test_cc_types_df = pd.read_csv("../upsampled_train_val_test/test_no_charade.csv")
+7
+​
+8
+tokenizer = Tokenizer(filters='"#$%&()*+/:;<=>?@[\]^_`{|}~')#exclude ! . , -
+9
+tokenizer.fit_on_texts(pd.concat([upsampled_input_cc_types_df,val_cc_types_df,test_cc_types_df])['clue'])
+10
+​
+11
+def addSpaceBeforePunct(s):
+12
+    s = re.sub('([.,!?()])', r' \1 ', s)
+13
+    s = re.sub('\s{2,}', ' ', s)
+14
+    return s
+15
+​
+16
+upsampled_input_cc_types_df = pd.read_csv("../upsampled_train_val_test/train_no_charade.csv")
+17
+val_cc_types_df = pd.read_csv("../upsampled_train_val_test/val_no_charade.csv")
+18
+test_cc_types_df = pd.read_csv("../upsampled_train_val_test/test_no_charade.csv")
+19
+​
+20
+input_bow = tokenizer.texts_to_matrix(upsampled_input_cc_types_df['clue'])
+21
+​
+22
+inputs_X = tokenizer.texts_to_matrix(upsampled_input_cc_types_df['clue'])
+23
+val_X = tokenizer.texts_to_matrix(val_cc_types_df['clue'])
+24
+test_X = tokenizer.texts_to_matrix(test_cc_types_df['clue'])
+25
+​
+26
+inputs_Y = [cc_types_dict[val] for val in upsampled_input_cc_types_df['category'].values]
+27
+val_Y = [cc_types_dict[val] for val in val_cc_types_df['category'].values]
+28
+test_Y = [cc_types_dict[val] for val in test_cc_types_df['category'].values]
+29
+​
+
+1
+import pickle
+2
+with open('dt.pickle', 'rb') as pickle_file:
+3
+    content = pickle.load(pickle_file)
+/anaconda3/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 0.20.0 when using version 0.19.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+content.score(inputs_X,inputs_Y)
+1
+content.score(inputs_X,inputs_Y)
+0.9999179633022506
+
+val_Y
+1
+content.score(val_X,val_Y)
+0.5028465202741954
+
+1
+content.score(test_X,test_Y)
+0.4909680407596109
+
+val_pred
+1
+val_pred = content.predict(val_X)
+
+test_pred
+1
+cnf_matrix = confusion_matrix(val_Y,val_pred)
+
+1
+print(__doc__)
+2
+​
+3
+import itertools
+4
+import numpy as np
+5
+import matplotlib
+6
+import matplotlib.pyplot as plt
+7
+​
+8
+from sklearn.metrics import confusion_matrix
+9
+​
+10
+matplotlib.matplotlib_fname()
+11
+​
+12
+def plot_confusion_matrix(cm, classes,normalize=False,title='Confusion matrix',cmap=plt.cm.Blues):
+13
+    """
+14
+    This function prints and plots the confusion matrix.
+15
+    Normalization can be applied by setting `normalize=True`.
+16
+    """
+17
+    if normalize:
+18
+        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+19
+        print("Normalized confusion matrix")
+20
+    else:
+21
+        print('Confusion matrix, without normalization')
+22
+​
+23
+    print(cm)
+24
+​
+25
+    plt.imshow(cm, interpolation='nearest', cmap=cmap)
+26
+    plt.title(title)
+27
+    plt.colorbar()
+28
+    tick_marks = np.arange(len(classes))
+29
+    plt.xticks(tick_marks, classes, rotation=45)
+30
+    plt.yticks(tick_marks, classes)
+31
+​
+32
+    fmt = '.2f' if normalize else 'd'
+33
+    thresh = cm.max() / 2.
+34
+    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+35
+        plt.text(j, i, format(cm[i, j], fmt),
+36
+                 horizontalalignment="center",
+37
+                 color="white" if cm[i, j] > thresh else "black")
+38
+​
+39
+    plt.ylabel('True label')
+40
+    plt.xlabel('Predicted label')
+41
+    plt.tight_layout()
+42
+​
+43
+​
+44
+# Compute confusion matrix
+45
+np.set_printoptions(precision=2)
+46
+class_names = cc_types
+47
+# Plot non-normalized confusion matrix
+48
+plt.figure(figsize=(15,15))
+49
+plot_confusion_matrix(cnf_matrix, classes=class_names,
+50
+                      title='Decision Tree - Confusion matrix, without normalization')
+51
+​
+52
+plt.savefig("dt_unnormalized")
+53
+# Plot normalized confusion matrix
+54
+plt.figure(figsize=(15,15))
+55
+plot_confusion_matrix(cnf_matrix, classes=class_names, normalize=True,
+56
+                      title='Decision Tree - Normalized confusion matrix')
+57
+​
+58
+plt.savefig("dt_normalized")
+Automatically created module for IPython interactive environment
+Confusion matrix, without normalization
+[[1244   36   12   93  419  133    6    5  390   25   45    0    3]
+ [  41  223    0    4   10    0    1    0   15    0   85    0    0]
+ [  45    2    1    5   14    3    2    0   16    0   12    0    0]
+ [ 280    6    1   53  144   26    2    2   54    1    6    0    0]
+ [  82    0    0   30 1487   14    0    7    9    0    8    0    0]
+ [  51    7    1    4   57  369    0    1  144    0   80    0    0]
+ [   0    0    0    0    0    0  129    0    0    0    0    0    0]
+ [  13   51    0    2    9    5    2   75   22    1    1    0    0]
+ [ 400    0  159    1  240  304  112  122  476    0  115    0    0]
+ [   9    2    0    3    4    4    0    1    6    3    1    0    0]
+ [ 142    1    1    8   29   19    0    0   36    4  247    1    0]
+ [   1    0    0    0    0    0    0    0    1    0    0   20    0]
+ [   3    1    0    0    1    3    0    0    0    0    0    0    1]]
+Normalized confusion matrix
+[[5.16e-01 1.49e-02 4.98e-03 3.86e-02 1.74e-01 5.52e-02 2.49e-03 2.07e-03
+  1.62e-01 1.04e-02 1.87e-02 0.00e+00 1.24e-03]
+ [1.08e-01 5.88e-01 0.00e+00 1.06e-02 2.64e-02 0.00e+00 2.64e-03 0.00e+00
+  3.96e-02 0.00e+00 2.24e-01 0.00e+00 0.00e+00]
+ [4.50e-01 2.00e-02 1.00e-02 5.00e-02 1.40e-01 3.00e-02 2.00e-02 0.00e+00
+  1.60e-01 0.00e+00 1.20e-01 0.00e+00 0.00e+00]
+ [4.87e-01 1.04e-02 1.74e-03 9.22e-02 2.50e-01 4.52e-02 3.48e-03 3.48e-03
+  9.39e-02 1.74e-03 1.04e-02 0.00e+00 0.00e+00]
+ [5.01e-02 0.00e+00 0.00e+00 1.83e-02 9.08e-01 8.55e-03 0.00e+00 4.28e-03
+  5.50e-03 0.00e+00 4.89e-03 0.00e+00 0.00e+00]
+ [7.14e-02 9.80e-03 1.40e-03 5.60e-03 7.98e-02 5.17e-01 0.00e+00 1.40e-03
+  2.02e-01 0.00e+00 1.12e-01 0.00e+00 0.00e+00]
+ [0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00 1.00e+00 0.00e+00
+  0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00]
+ [7.18e-02 2.82e-01 0.00e+00 1.10e-02 4.97e-02 2.76e-02 1.10e-02 4.14e-01
+  1.22e-01 5.52e-03 5.52e-03 0.00e+00 0.00e+00]
+ [2.07e-01 0.00e+00 8.24e-02 5.18e-04 1.24e-01 1.58e-01 5.81e-02 6.32e-02
+  2.47e-01 0.00e+00 5.96e-02 0.00e+00 0.00e+00]
+ [2.73e-01 6.06e-02 0.00e+00 9.09e-02 1.21e-01 1.21e-01 0.00e+00 3.03e-02
+  1.82e-01 9.09e-02 3.03e-02 0.00e+00 0.00e+00]
+ [2.91e-01 2.05e-03 2.05e-03 1.64e-02 5.94e-02 3.89e-02 0.00e+00 0.00e+00
+  7.38e-02 8.20e-03 5.06e-01 2.05e-03 0.00e+00]
+ [4.55e-02 0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00 0.00e+00
+  4.55e-02 0.00e+00 0.00e+00 9.09e-01 0.00e+00]
+ [3.33e-01 1.11e-01 0.00e+00 0.00e+00 1.11e-01 3.33e-01 0.00e+00 0.00e+00
+  0.00e+00 0.00e+00 0.00e+00 0.00e+00 1.11e-01]]
+
+
+
+1
+paths = content.decision_path(val_X)
+
+1
+paths = paths.toarray()
+
+1
+from sklearn.tree import _tree
+2
+​
+3
+def tree_to_code(tree, feature_names):
+4
+    tree_ = tree.tree_
+5
+    feature_name = [
+6
+        feature_names[i] if i != _tree.TREE_UNDEFINED else "undefined!"
+7
+        for i in tree_.feature
+8
+    ]
+9
+    print("def tree({}):".format(", ".join(feature_names)))
+10
+​
+11
+    def recurse(node, depth):
+12
+        indent = "  " * depth
+13
+        if tree_.feature[node] != _tree.TREE_UNDEFINED:
+14
+            name = feature_name[node]
+15
+            threshold = tree_.threshold[node]
+16
+            print ("{}if {} <= {}:".format(indent, name, threshold))
+17
+            recurse(tree_.children_left[node], depth + 1)
+18
+            print ("{}else:  # if {} > {}".format(indent, name, threshold))
+19
+            recurse(tree_.children_right[node], depth + 1)
+20
+        else:
+21
+            print ("{}return {}".format(indent, tree_.value[node]))
+22
+​
+23
+    recurse(0, 1)
+
+1
+tree_to_code(content,list(tokenizer.index_word.values()))
+def tree(in, of, to, a, the, for, one, with, on, and, by, is, spooner's, be, from, up, that, way, it, at, not, this, –, about, out, or, spooner, old, may, it's, work, which, as, first, some, back, after, what, that's, —, you, over, picture, involves, could, get, an, look, perhaps, i, part, time, see, when, put, right, no, initially, say, like, either, being, regularly, very, new, oddly, can, having, getting, down, go, off, has, they, more, might, left, into, end, place, but, have, we, head, songbird, sound, twists, round, girl, cook, man, according, city, both, small, around, last, where, make, set, ways, going, used, country, heading, found, all, cut, one's, children, fish, bit, same, drink, good, two, was, said, taken, fat, french, little, making, once, east, turned, without, number, take, west, slender, group, top, start, short, hear, taking, away, so, what's, american, maybe, story, who, river, church, built, those, here, seen, money, hit, his, people, south, running, he, bird, odd, say,, are, state, reportedly, turn, person, give, do, beginning, whichever, !, other, food, your, broadcast, quite, name, hard, leader, starts, than, play, these, made, nothing, given, use, just, european, water, if, horse, second, area, device, north, before, during, likely, most, possibly, goes, writer, regular, across, party, fruit, caught, home, gets, english, type, will, involving, another, perhaps,, large, upset, originally, source, uniform, i'm, character, sort, fine, great, record, game, ,, support, front, up,, something, missing, military, odds, turning, always, half, almost, leaders, problem, us, capital, does, address, sides, turns, takes, friend, note, reported, got, funny, royal, woman, quick, recalled, needed, says, knocked, stories, sounds, their, makes, working, also, shows, direction, me, female, outside, did, film, opening, leaving, horn, …, showing, ring, lot, driver, rise, piece, mostly, change, such, university, finally, still, stage, characters, book, holding, partner, fellow, covered, son, power, heard, inside, feature, primarily, drunk, coin, heads, energy, bloke, times, rock, losing, erected, much, become, badly, cheese, find, side, drawn, dance, school, plant, bits, couple, fall, style, him, king, must, hearing, counter, course, heart, keep, liquid, day, coming, commander, mild, revolutionary, red, opinion, sea, town, others, appeal, blade, relative, queen, house, team, would, show, crack, worker, ruler, 5d, there's, line, warning, stand, cover, quiet, leader,, now, disregarding, feat, she, onward, bar,, high, act, held, any, body, erect, my, disinclined, america, apollo,, particular, raised,, long, measure, attack, anyway, swivel, spice, palindrome, only, island, equally, served, hot, amount, retirement, current, speeding, le, middle, need, turner, lacking, reversible, twelve,, caused, vehicle, wild, build, ultimately, article, joint, local, following, car, wee, run, wife, that,, then, report, thing, every, scottish, daryl, gordon, catch, brought, too!, through, figure, guy, partner,, sign, extremely, exclamation, foreign, london, arab, under, disapprobation, special, again, outline, animal, material, artist, favour, returning, days, men, them, love, body,, trees, african, spirit, bill, life, comme, dit, land, picked, had, empty, essential, central, tea, rising, kitchen, child, foot, german, force, brown, oil, doctor, board, period, return, crossing, heartless, lake, call, radio, initially,, told, greek, ingredient, hear,, form, involved, let, cloth, unusual, rubbish, parts, difficult, often, gives, alcohol, tree, how, keeping, pop, black, this,, court, green, lead, fitted, instrument, weapons, poor, wrong, too, cat, beer, role, tool, big, eating, opponent, key, measuring, symbol, point, stop, different, kept, starters, painting, young, train, road, help, wine, oscar, read, cold, office, sex, spanish, runs, study, fashion, service, item, wearing, guaranteed, guitar, many, light, 24, college, treatment, poisonous, backing, come, county,, right,, opposite, bad, order, former, letter, dish, event, early, italian, spooner,, lost, initial, bar, returned, offering, 's, produced, agent, business, strange, move, past, tiny, important, blow, endless, speech, lines, piercing, minister, stuff, ends, rejected, month, charge, wind, extent, pick, chap, blue, behind, awful, someone, places, somewhere, better, her, control, model, excellent, garden, trouble, british, accommodation, shown, hair, view, don't, region, bank, reduced, system, playing, among, hedgehog, watchword, 12, consumed, huge, close, together, even, hold, indian, member, shelter, bottle, equipment, religious, clothes, series, spotted, soft, cross, ship, craft, they're, language, county, rule, moving, fix, track, birds, everyone, music, northern, route, pub, leads, deer, off,, case, been, stick, each, minor, art, soldier, question, its, announced, lady, public, display, conservative, leading, room, dog, skin, allowed, summer, well, spot, resistance, boss, boy, exit, dry, means, boxing, sent, features, depression,, nice, embraced, 3, ran, lad, shot, private, drug, lower, vessel, strike, agreement, standard, attention, company, pressure, bosses, comes, main, stopping, three, happy, follow, musical, few, interest, hosting, distance, eat, toy, anything, mountain, raised, gear, anger, cause, position, drawing, male, wood, gold, beans, idea, free, pale, centre, clothing, song, pair, sudden, can't, insect, william, star, rhythm, travel, quartet, white, singer, chief, sink, trip, were, extra, less, should, contributing, locks, receiving, strong, 1, supporters, larger, answer, choice, gin, try, location, exercise, clever, class, fit, rest, poet, instance, national, police, stone, australia, associated, lass, break, retaining, air, hand, cutting, flower, obsessive, follows, resort, want, bug, entertained, disheartened, opportunity, baby, etc, criminal, 2, bring, channel, fairy, example, staff, meets, obey, letters, nuts, government, excited, contempt, anxiety, death, serious, tax, kind, lecturer, drinking, hospital, first,, passes, finish, choose, next, stupid, beyond, captured, excludes, escort, needs, tourist, band, producing, fundamental, thrown, york, endlessly, somewhat, salad, department, laurel, relish, theologian, issue, currency,, includes, row, sweet, popular, judge, bishop, prime, fanatic, water,, confusing, briefly, major, dispute, opera, individual, reduce, fixes, hotel, biscuit, attracted, went, bay, closely, politician,, bed, space, rowdy, flowers, hat, climbing, sense, longer, brawls, lights,, peas, affected, between, delivered, telephone, parasite, easy, incorrect, our, reaction, midwest, reverend, chef, criticism, acid, jacket, singularly, transport, partly, providing, rare, ready, recording, tourcity, vulgar, damaging, arranged, holland, shift, memory, 8, opener, ignored, requirement, specimen, approached, maid,, leaves, exhaust, sound,, strongest, sensitive, soldiers, inquisitive, holds, desire, constant, stylish, breaking, unfinished, albino, removed, priest, plain, inspiration, chest, covering, sexual, felicity, ancient, passage, dancing, talk, mentioned, murder, bunch, player, faculty, significant, hay, ones, protect, pounds, lesson, communications, attend, paper, giving, prison, audience, author, guys, action, fashionable, section, rum, scandal, actor, asian, bottom, leave, provide, self-proclaimed, birdwatcher, movement, feminine, sit, entering, range, bet, non-standard, changed, prevent, against, open, door, ploy, things, ground, stretch, club, desolate, refreshment, crown, repair, protein, excavation, blonde, mounted, feed, conflict, statesman, displaying, flight, latest, timeless, rome,, mark, novel, included, met, general, baby-minder, daughter, finding, admirer, parliamentary, well-worn, speak, night, zaphod, beeblebrox, figures, port, defeated, schoolgirl, frail, grass, borders, d, grow, returns, dwelling, entirely, rascal, books, basic, keeps, best, person,, you'll, touring, “wind, mccartney”, babies, street, writing, ark, vagrant, lavatory, fixtures, kiosk, russian, diet, mobile, yellow, troops, word, elite, handled, ball, boxers, presumably, least, meal, twice, intervals, monstrous, teaching, hurt, using, clocking, iberia, air-miles, part-exchange, amusement, warren, thus, possible, damper, wet, composition, result, confronted, embracing, steps, acclaims, mia's, “zulu, dawn”, window, face, responsible, include, composer, brawl, arrangement, villain, borough, quality, nightmare, bungling, animated, reel, cards, reading, depression, beam, interfering, match, abandoned, element, monster, auntie, recession, grind, father, rotter, objective, drenched, gloom, tortoise, certainly, fresh, pulled, nose, angry, gave, miss, provided, check, full, what'sof, emerging, below, causing, tan, tripe, account, lose, salt, gossip, hint, saddle, lack, sun, warbles, creature, radiation-proof, neck, apart, gas, punch,, carriers, chickpeas,, worthwhile, onfor, meat, fiasco, pass, origins, meritorious, tear, celebrity, casing, scattered, connection, rev, forward, appear, store, fire, loses, c, rough, family, he's, 21, branches, lithuanian,, did,, lift, coat, thug, flexibility, doing, condoms,, fired, fuss, france, gaufrid, spike, housing, dead, protecting, highest, retired, safety, ceramist, comprehensively, houses, shroud, introduction, mac, weight, restricted, drop, bung, backed, bread,, labour, believe, lifts, saving, boxer‘s, nonsense!, alleviate, fair, isn't, aside, oneself, represented, 18, out,, buzz, theatre, noise, disease,, annoyed, scotland, con, crazy, final, expert, financial, iron, throwaway, save, lessen, looking, tip, chick, cheddar,, doesn't, battle, expressed, maybe,, hunter, pager,, speaking, appearing, border, l, slide, partnership, rods, clique, honourably, cuddle, we're, wear, camp, within, detective, spread, complete, enter, firm, fast, fun, praise, rooney's, security-concious, wants, haggard, adverse, teetotaller, badgers, infecting, tee, attract, reality, knight's, organ, subject, v, pay, fancy, layer, curate, robin,, batches, errs, eastern, deal, evenly, nervous, kick, who's, containing, sauces, setter, news, nurse, observed, declined, raquel, stark, reorganised, rid, test, viz, needing, smart, year, changes, trains, fact, colour, premises, prelate, folder, janitor's, plonker, nag's, thoroughbred's, t-toast's, obsessed, typographical, cassandra, reliant, bhutan's, claim, hesitation, race, ten, mistake, revealing, hours, plant,, trump, revealed, ignoring, fur, poet's, carried, hopeless, somme, russia's, box, officer, wrap, broken, offered, present, fare, information, done, breakaway, restrictions, epicurean, shod, flopped, spectacularly, supporter, meeting, trial, product, occasionally, busy, bread, fool, flatlands, produces, enjoying, one,, dd, alabama, motorway, disease, sport, ordway, amegay, watch, lives, charlie's, alcohol,, newcastle,, tv, trade, biblical, ruling, works, criticise, army, blogging, sell, tories, example,, shock, drinks, assassin, sailor, looks, sewer, prospect, lots, youth, reason, political, dismal, retreat, manager, sick, messing, am, legal, rear, condition, spend, level, ground,, groom, oddly,, bandage, battered, expression, barriers, won't, fear, speaker's, tries, irish, various, contributor, islam, gate, further, weed, blossoming, notes, extremity, there, utter, god, slap, square,, felt, notice, sending, ultimate, unit, metal, season,, boring, building, ofanglia's, words, property, basis, topless, real, wrist, putting, perfect, speaking,, armed, violently, vegetable, late, noted, stock, processor, pain, though, puzzle, eaten, native, feast, collect, oxygen, leg,, hooter, submerged, moved, receive, feeling, win, animals, net, numbers, world, it,, diamonds, screen, golf, greatest, teacher, actually, pull, near, scores, serve, certain, join, —-, 9, travels, visit, swine, embrace, including, secret, prepared, dropping, cake, challenge, alaska,, japanese, 25, positioned, cricket, harshly, diarrhoea,, henry, sub!, colours, quits, days!, isa, blessing,, modest, saw, carrying, fan, disabled, pines, loud, eats, gone, remove, crowd, hands, engaged, needles, requiring, clean, designed, resulting, harmony, lover, complaint, flat, war, cry, camellia, list, spattered, wrapper, posh, president, roman, alcoholic, overthrowing, bestuzhev-ryumin, conspire, freshness, union, vocal, imprisoned, natural, shape, enhanced, hoped, watts, distortion, old,, terms, scanned, shelved, fen, confused, never, title, supply, boat, slightly, laundered, international, towed, straight, container, i'd, talking, fed, bodily, weather, discussed, breakfast, job, relieve, design, nation, billboard, unable, limiting, oxford, accepting, clothing's, student's, expansion, begin, cast, she‘s, entertainment, coins, miliband, modern, collecting, remains, divide, old-time, disgusting, credit, dark, bars, f, extract, explosive, retained, clear, this!, twirling, steam, canines, current,, drugs, copper, abuts, society, card, overdrawn, wanting, curse, “good, …”,, knight, in,, advance, physician, welcoming, panicking, shield, success, single, diplomat,, field, labrador's, live, network, novelist, graduate, exotic, bolt, drink,, interrupting, divine, drama, pieces, alleycats, reach, third, policy, spin, bag, carry, rotten, edge, cheating, tough, accepted, tail, sad, rain, d16, target, starters,, evidence, received,, bashthings, really, dangerous, edging, sandwiches, naturally, age, blasé, felons, bear, delay, hole, smell, seek, bard's, arrested, that!, trying, going's, paris, prayer, republic, clergyman, exposed, germany, members, misinterpreted, waste, workers, suffering, latin, poem, rome, cycling, ear, obtain, fighting!, swallow, alternative, swimmer, journalist,, politician, items, agreed, will,, marine, lie, harass, targeted, shy, brief, leg, ‘cease', everything, plan, women, appearance, unexpected, site, written, diners, youthful, prince, tartan, quickly, bills, clue, emigrants,, low, page, employed, message, took, tufted, materia, clicked, shetland,, unfinished!, plumb, caesar,, j, master, selection, pronounced, comeback, worn, conceals, quarters, providers, cuts, post, anti-slavery, manner, duke, beat, computer, hill, base, resented, stewardesses, finn, coffee, usually, shop, cad, mecca,, above, draw, overturned, indies, morning, stops, mother, ed, seat, outfit, liberal, hope, examining, exploded, incline, walk,, table, stuck, chinese, roughly, nasty, rugby, appears, 10, slowly, wears, stomach,, upset,, husband, entertaining, holiday, discussion, scam, training, reverse, day,sounded, disastrously, score, touch, allegation, cunning, back,, treatments, sanatoriums, abroad, quantity, theory, passion, bible, pinkie, huckleberry, 0possibly, revolution, wingless, collapsing, bouncy, grenade, well!, organisation, steal, welsh, cases, essentially,, sonnet, avoid, dieters, founder, luxury,, appetites, dalliance, four, true, crisis, points, forked, jailed, place!, gathering, gather, introducing, framed, 25d, sleep, craved, petrol-head, tory, ice, old-fashioned, christmas, mass, greeting, district, peace, somersault, somehow, suit, spectrum, laid, lenin, castleplayed, feeder, occupied, pupil, oral, bound, terry-thomas's, choker!, growth, setting, saying, newspaper, rather, ecstasy, bone, medical, content, saint, time,, helping, neighbour, boob, decline, downtrodden, traumas, ogler, price, percussionist, boulogne, unknown, intense, term, aren't, crew, sometimes, papers, length, signal, phone, excessive, guarantee, defence, loveless, catholic, canoes, argue, fabric, provides, regulars, relief, describing, completely, available, grand, aid, collection, myth, contrary, 16, fuel, audible, starter, corrupt, approach, promise, independent, chance, minimum, respect, grey, offer, girl's, poverty, secure, whose, musicians, punishment, spots, voice, share, step, failing, europe, 20, practice, sports, frequently, 15, pan, tour, mouth, shade, beef, peasant, entrance, simple, 4, chicken, england, editor, potentially, s, featured, paid, absorbed, hide, italy, accept, scots, pulling, solid, mature, catching, weapon, 10,5, audition, schoolma'am, covers, admitted, verse, journalist, lifting, veg, falling, do,, soon, trim, india, senior, matter, hop, dull, jazz, sees, paint, sample, stay, eye, payment, raise, composed, rope, gun, sailor's, rarely,, contain, knowledge, equal, mess, whisky, development, scrap, transported, pen, appallingly, wit, tucking, yet, understood, penned, thought, cooked, gap, ride, repeatedly, abandon, holy, square, came, jack, standing, primate, tenor, victory, think, false, swapping, surgeon, library, sporting, loose, rude, wheel, required, heavy, dramatic, storm, repressively, received, substitute, attire, attempt, bust, omitted, china, doubt, substance, captain, catches, shed, eggs, woman's, able, weak, personal, hero, brides, intended, nurses, text, sounded, far, commercial, cheeky, evil, produce, forged, pretty, discovered, law, sounding, alternate, hidden, routine, inclined, comic, confuse, openings, press, deep, person's, violent, hiding, cool, bringing, finished, astray, depressed, conversation, country,, wave, beauty, creating, follower, emperor, signs, said,, useless, mineral, reward, outstanding, songs, mine, boxes, unfortunately, mate, season, distress, slice, agree, famous, tender, thin, trap, frozen, securing, adopted, pack, performance, community, blocking, trapped, glass, criticises, fly, reflection, stroke, dinner, farm, wall, nearly, hindu, situation, plane, worked, own, reveal, date, group's, dress, activity, seductive, hairstyle, advocate, jobs,, tie, stomach, masonry, wind,, bitter, fantastic, yes, outer, horrible, abandoning, becoming, sticking, guards, chaps, calling, official, cap, garment, extracted, purchase, dogs, cultivated, brothers, original, outlay, van, speed, sailors, minute, alternately, 14,, man's, contribution, traditional, additional, married, horse,, register,, listen, soldier,, southern, intelligence, lord, joke, snack, enough, knocking, seeing, policeman, keen, admitting, translation, honest, accident, giant, spoken, swallowed, enters, lexicographer, duke's, fight, small,, bloke's, spain, student, down,, suddenly, stew, tense, e, daily, sexless, 19, poetry, treated, beast, delivery, while, formal, dealer, furniture, roast, filling, terrible, muddle!, boxer, worcestershire's, silver, sensible, lackey, instruments, goods, legendary, digital, protection, capturing, first-rate, abandons, response, cattle, egg, consider, aircraft, size, stir, concealed, develop, make-up, loss, rate, occasion, bottles, withdrawn, snow, disrupt, starting, pole, universal, auxiliary, root, roof, performer, audibly, wherein, floor, habit, horses, vital, minutes, absorbing, potential, award, invested, rogue, blemish, ordered, direct, regret, eyes, flag, winter, students, guardian, goal, bearing, you're, sequence, several, peers, gathered, grave, rocks, clubs, tips, circling, dropped, removing, plot, widow, singular, australian, understand, bob, folk, reflecting, tom, dodgy, increase,, plants, drops, becomes, stolen, 18,, crime, me,, complain, changing, enthusiasm, neat, spring, stars, pot, acting, fluid, exercising, refusal, surrounded, coach, advantage, nag, passed, grain, hairstyles, modelling, superior, cheers, ending, muscle, problems, handel, goddess, difficulty, contents, results, radical, picking, carries, shortly, instead, lewis's, domitian, duo,, george, aloud, shine, noisy, hundred, due, here,, prize, sliced, castle, tense,, surface, services, ask, vacuous, died, indeed,, smack, bargain, worry, security, traffic, mean, idiot, scotch, grub, fake, demanding, overlooked, five, doctor,, fault, split, reflected, meet, provider, conceal,, scene, escape, access, reserve, auditorium, promotion, wanted, breaks, appropriate, dear, exam, recited, cabinet, obtained, carriage, ever, competition, apparently, review, supporting, header, document, glasgow, ladies, sheep, auction, way,, food,, gallery, ideal, girls, staying, wish, ocean, degree, traveller, enthralling, flipping, increasingly, republican, strain, epic, orally, head,, village, underwear, cash, dismissed, fractions, hard,, blocked, balls, pudding, butter, runner, welcomes, introduced, rider, fixed, layers, 11, mixed, kiss, reporting, volume, you'd, inventor, market, purpose, missed, mention, common, slip, firm,, place,, rich, compound, adding, mad, exactly, send, p, human, country's, rebel, bomb, influenced, invasion, uprising, costume, obscure, seeking, broadcasting, timber, choppers, duck, add, dope, mean,, welcome, positions, requires, river,, sharp, coarse, ingredients, limits, st, ugly, limit, loudly, gain, manufacturer, belt, aback, satire, girl,, attacks, classic, collected, drag, rarely, warm, graceful, over,, attractive, supports, sky, nine, winger, fits, knock, played, error, smooth, entered, eventually, worried, excluded, favourite, rates, production, uncovered, confined, progress, earth, harbour, suffer, alien, publication, struggling, relationship, occupying, instruction, 5, lay, dining, brussels, recognised, wound, verbally, prayers, type,, banks, queen's, tyre, boundaries, 16's, setback, footballer, programme, fence, identical, odds,, accepts, tide, arm, fate, triumph, merchant, herb, jockey, weird, components, contains, foot,, suitable, puts, inept, dancer, desert, followed, pie, heroes, growing, yes,, dressing, otter, swimming, expected, philosopher, earlier, penny, park, relations, legs, create, surroundings, preserve, throw, comparatively, prior, climb, facing, wise, darkness, vintage, online, yielding, welcomed, health, collision, boy's, walk, severely, parent, thanks, director, gripped, facility, feeding, gang, belonging, peripheral, column, uses, bats, actor,, obstruction, character,, roll, carol, incidents, flirt, money,, barrel, accommodate, punch, drunken, slices, intelligent, banker, chuck, dine, seconds, thread, lifted, quickly,, tube, travelling, fairly, satellite, ireland, films, crossword, concert, successfully, approaches, penning, slow, mould, originally,, reckless, bend, lamb, unpleasant, cracks, overheard, pints, skill, insurance, tidy, description, avoided, 14, speaker, flier, announcement, estate, critic, runners, killing, votes, cape, screwed, dressed, yorkshire, heather, eleven, pest, aids, grip, stuffed, struggle, poetic, slight, bond, racing, copy, cream, edges, rug, whip, pedestrian, orange, ditch, no,, rifle, teacher,, here!, artist's, reptile, outspoken, seizing, behaviour, interval, unusually, agency, beautiful, sausage, bush, cooking, mammal, effect, totally, swiss, socially, nonsense, science, marks, skye, work,, spurn, allegedly, hairpiece, writers, fifty, touching, didn't, kent, discharge, struck, sicilian, cycles, trick, game,, publicity, decorative, uncle, singers, typically, gripping, left,, highly, otherwise, harsh, culinary, antonym, consuming, dog's, ofmoney, described, benefit, trump's, embarrassing, temperature, rose, exercisesagents, damaged, hides, future, education, proper, last,, charged, pages, worker's, noble, islands, greens, nude, revolting, dessert, compiler, deliveries, rat, genuine, harry, impressive, ballet, pleasure, rip, beset, seriousness, glows,, crude, generous, laws, contract, 26, zoo, deliver, swinging, questionable, remained, million, bass, older, cleaner, milk, risk, painful, awkward, terribly, writes, seems, application, aspect, flogged, painter, spinning, months, gym, rolled, groups, fox, fitting, dire, fell, sorrow, expect, intermittently, backwards, lengths, essentially, treasure, recorded, exercises, outlaw, brave, employee, finds, misdirected, motion, 7, gangster, cork, housed, variety, inner, deception, man,, explorer, remaining, talented, literature, execution, normally, top,, kit, don, retiring, request, incite, spare, cheap, devoted, concealing, crash, pet, flying, wrapped, ministers, well,, barrow, handy, records, fee, cost, supplied, tucked, ate, developed, games, quote, disc, born, pictures, finest, life's, engagement, successful, nap, degrees, bid, academic, unfriendly, mo, blowing, ought, smug, host, cruel, army's, comb, ford, release, players, arse, aboard, united, allow, splitting, perhaps,not, unexpectedly, sources, admits, bridge, lads, singles, hack, secured, bloody, santa, importance, admit, origin, rescue, shrub, done!, performing, edition, poison, lovers, rings, drunkard, theme, types, stand-in, arrest, extended, especially, encourages, value, heap, pit, learn, maiden, zero, merit, unique, invade, prepare, sadly, environment, alpine, conclusion, beside, outset, label, smells, rush, imbibing, clause, succeed, professional, upright, pound, winds, m, commonly, undermining, replacing, gods, led, married,, dance,, dictator's, hebrides, exile, sideways, function, poems, research, doubly, called, dishonest, designer, hermit, identified, lion, distribution, secretly, football, views, initials, seal, hood, boris, why, landed, sentence, up-front, beneath, reduction, belief, investigation, vision, principal, bully, chain, ulster, nevertheless, socialist, sunny, pirate's, quality,, operation, events, apparition, practical, object, actress, breasts, innocent, digitally, rare,, roller, until, supplementary, blood, unhappy, electronic, protected, avoiding, jug, treaty, cancel, dash, casual, eight, investment, learning, increase, delay,, isolated, statement, replaced, classical, foundation, guernsey, eejit, congregation,, president,, sale, gains, breeding, fleece, resent, weight,, skilled, festival, expecting, promised, lies, sendchildrenproblempublication, ray, effort, headless, onset, icon, bitten, alongside, trousers, principles, agreeable, gaelic, insignificant, curator, viewed, offensive, fellows, scot, gaudy, gypsy, killjoy, cushion, bullet, because, proposal, character's, units, declared, reports, articles, beach, creation, search, seals, eccentric, beaten, principally, religion, spicy, norse, spy, collapse, cautious, left-hand, created, advice, rules, reversing, regarding, saddled, charm, bags, pursuit, tension, lowest, regularly,, whole, bus, she's, scholar, unfortunate, moves, containers, commission, talked, settle, elevated, cheerful, heroic, kids, nitrogen, calm, slippery, sunday, exhibited, tend, data, assistant, towards, foul, scientist, elements, africa, pig, disturb, manage, placed, disapproval, gentleman, examination, outskirts, solitary, demand, sacred, processed, thick, tale, enemy, artwork, exploiting, uptake, drugspolicy, servant, bistro, grab, sauce, devil, stones, post-it, shocking, leadership, broadfailure, attending, since, 27, cleared, presented, planted, thailand, operator, 23, dealing, literary, construction, fleet, hammered, enthusiastic, fraud, gambling, mock, acquired, creates, church,, involve, rejecting, farewell, strength, enclosure, forgotten, fail, pilot, tin, moment, rollers, shirley, danger, strangeisland, silence, valley, madam, slave, “massive”, relax, aims, i'll, faded, circle, mathematician, wrongly, oriental, image, shopping, named, part-time, occasional, filming, installed, spent, sandwich, count, wrote, cell, debut, restaurant, nerve, essex, decoration, lightning, cop, politician's, stern,, it!, mythology,, cockney, pause, dip, disorder, terrific, offence, tried, tune, doomed, places,, bones, 22, surrounding, smaller, africans, jobs, recall, influence, tablet, later, rolling, climber, added, reform, enjoy, lying, drawinglines, drive, depict, media, ham, wasted, mounting, angle, seemingly, closed, secures, lane, debate, surprisingly, rank, partial, elizabeth, label,, earning, paranoid, hypothetical, competitively, rash, fade, mother,, bandmaterial, receives, fishing, females, trained, medium, neglected, checking, exhibition, stopped, muslim, triumphant, journey, toilet, goodman's, seeingfrench, jokes, pine, know, blows, xmas, designated, causes, useful, shortened, writer's, handle, helps, argument, formed, david, presents, renaissance, destroyed, rice, troublesome, i've, bows, fighter, damage, delayvisit, movedestablished, lean, overlooking, process, gift, clues, overrifle, forced, squeezing, erratic, earned, annoying, buried, relating, matted, resident, stem, flutter, d‘s, waves, manufactured, scheme, guts, upside, air,, drawers, managed, book's, travelled, eternal, hamper, dismayed, quantities, pubs, paperwitness, published, casually, pink, aim, naked, popularcurry,, mistakes, reckoning, draught, debit, vacant, ban, tennis, mind, cod, visible, rent, peak, earnings, i!, portion, smoke, care, organised, polish, advanced,, quietly, ahead, humour, lovely,, costs, galas, wormwood, labs, swans, fibula,, iowa,, kindle, raw, highrank, effects, yak, urn, aunt, t, pals, extreme, confidence, featuring, 10,, failed, sore, crosses, lecherous, temporary, push, apple, endprotest, diving, noon, stormy, standardcomponent, narrow, jack's, educational, blooms,, dullard, aisle, amid, atmosphere, headed, lake,, indication, active, neither, celebrate, helpnotes, around,, pretentious, israeli, passing, attendant, andbow, belong, miry, tensed,, started, happiness, develops, tell, interminably, bearer, piano, holiday,, dailytrain, repellent, employ, extremist, likely,, cautiously, examines, ex-servicemen, presenting, dusk, stocked, everywhere, giveaway, youngsters, embarrassed, unlikely, periodically, britain, 37, pockets, pinchto, identifying, component, leader's, silly, nansen, acts, fishy, officials, storming, strip, king's, responsibility, customer, nut, failure, loves, deity, employment, thatcher, salesman's, plunge, counties, chimney, smashing, restricting, city-dweller, hoopla,, zany,, epic,, pesterprince,, sweet,, chiefsection, curtains, serving, parisian, board,, noah, filled, screening, fabulous, scraps, shower, cats, clock, adolescent, recently, approximatelocation, taste, version, plate, restrict, printed, extremes, feel, cardinal, man‘s, trust, heart,, detachments, protest, nick, nuclear, outsomething, schoolchildren, defeat, marble, listened, greece, interior, old-timers', dances', glimpse, himself, swearing, describe, composer,, grooms, osborne, pie,, luxurious, pure, divers, rolls, rematch, spain's, pots, unduly, goat's, fences, decay, bill's, ungainly, torture, revolt, exhausted, informally, highlights, accurate, spot,, social, hell, airline‘s, greenhouse, trainee, awfully, about,, rhythm,, station, opposed, order,, hosted, devious, soprano, honour, ruined, us,, moral, victim, rock,, brings, larva, versatile, princess, flowing, stickypebble, 28, airport, patter, faults, shakespearean, conductor, today's, withwhat, potato, farmer,, president's, handlingpiece, ‘s, brewing, torquay,, del, tall, musician‘s, stranger, cooks, massage, dumped, believed, hovels, decade, songwriter, historic, fortune, killer, skipping, dive, negative, knife, teeth, sin, embraces, approval, teach, atomic, leather, pronunciation, visiting, gravy, block, nucleus, reportedly,, pint,, loaf, refuse, deals, calendar, invite, jaunty, northerner's, lie,, ‘drinks, freeloaders!', producer, oppose, america's, 1and, 2metres, abnormal, write, packing, bouquet, wrongdoer, toast, squash, surprised, beastly, sailing, maker, edible, soundly, circlet, pasta, appendices, ailing, genteel, quid,, litter, detect, twenty, heartlessly, broad-leaved, hosts, violinist,, particularsquadset, hunt, cracked, disturbed, pants, lady's, pan's, buck, denial, overnight, rival, pride, bum, deny, vain, checked, factory, thisformer, exhibit, cocktail, layabout, method, needed,, shakespeare, bananas, hamlet, extent,, corner, authority, democrat, gloucester's, nought,, appeal!, lit, exams, flowering, forces, operational, correct, tricky, upper, traitor, hatter's, setter's, electrical, patience, chosen, congress, orthodox, magazineentries, countries, custom, good,, traces, slips, fromrugby, riotous, darwin', stroked, mellor's, erogenous, zone,, addressing, bebusy, society's, partners, traditionally, salmon, jam, dutch, auditor's, poles, bristol, styles, stable, sweetheart, 17, helpings, shout, considered, sums, locations, hanging, helped, oar, discerned, kisses, seafood, hostile, reaching, cracking, sherry, detained, arresting, province, contest, safe, tiresome, falls, on,, and,, cite, puzzles, shoot, minority, bow, furious, chair, recess, faulty, beats, planning, bright, merely, sage, company's, kicked, surprise, millions, else, photographer's, detailed, industry, sugar, fiat, settled, seaside, stripped, handles, cup, performed, hoskins, strikes, cowl, aussie, revelation, secretary's, polished, 6, defends, acquitted, child's, procedure, manure, paddy, tunnel, wintry, corporation, extremists, starring, butt, flow, cat,, housewife's, course,, dodgems, pedigree, tuck, entry, downplay, sri, suspect, adroit,, amateur, lilburne, lycra, rhymers, transfer, parade, pissed, canadian, rewrite, engineer, moulded, house,, lunch, mood, conveyed, brexit, personnel, sister, hooligan, scared, generate, egypt, john, ceremony, tolerant, fish,, theories, muscles, fighting, baptist, knows, temper, tobooze, ozzy, afternoon, march, chemist's, guide, watertight, necessary, dirty, stuffing, smoker, ancestor's, secretary, solemn, chemical, behold, pierrot, crush, interrupted, tournament, settling, fatally, whiskey, postpone, repeated, victorian, improvement, swan, fluorine,, delight, champion, supported, depth, claiming, singing, avoids, replace, itself, overcome, wood,, listed, shaft, angling, player's, monks, limited, increases, names, skint, evening, vineyard, blunder, visual, antique, sang, guard's, circulating, conclude, encouragement, urban, cinema, trip‘s, folly, audience's, assumedwhen, impresses, nuts,, situations, birdbath, seven, history, oxbridge, chairman, cult, memory,, day's, stirring, connecting, expels, gardens, lament, kitten, peacocks, examined, lanka, attitude, musician, barking, lock, restraining, checks, decrease,, delicate, are,, unknowns, clean25, irritated, concrete, charity, bloom, spliffs, repelled, coating, pattern, gag, unsettled, aura, destroys, stream, packed, crust, accompanying, shellfish, traders, splendid, wrecked, footwear, bog, city's, commotion, measures, easily, extraordinary, protective, kisser, undies, prompt, venus, desperate, platform, engage, playwright, loin, architect, howler, shell, swirling, freedom, god,, handsome, pacific, replacement, dehydrated, norm, usual, snugly, scratching, georgia, head's, settlement, confinement, softened, handlebook, limeade, silk, boiler, thousand, siren, restricts, league, fnooze, culm, leaf-like, wing, reviewed, peacefulflat, flakes, charming, apartment, junction, balconies, tigers, plumbing, gaining, tight, eu, armour, poker, great,, thorny, falsetto‘s, six, feeble, brenda, carve, quit, ape, underground, boredom, sleeping, tragic, volunteers, chapel, skiing,, gasthof, sure, jumped, circuit, cab, month,, menused, brag, vigour, exchange, switched, lessons, employing, caesar, reversed, upper-class, remain, ruins, wellies, scored, clearly, dye, surrey, wednesday, bucket, plates, funds, radioed, relation, receiver, unexpectedobservation, madly, premiere, anti-nazi, forecaster's, desprez,, ziegfeld, exhibits, awesome, blind, panic, trace, spelling, booze, beings, scratch, complex, supporter,, sailing-ship, climbers, loved, hearts, seldom, strand, linesman, crop, supposed, flourishing, difference, foil, capture, stress, reveals, anger,, brass, blofeld, cambridge, omitting, challenges, wheels, rodent, jewellery, clutching, voting, emptied, dough, calls, reserved, ruth, sacking, fiddlers, boundary, debase, redhead, media,, complaints, interrupt, endeavours, arms, cookery, elderly, zip, gi's, frigid, bitchy, wide, foolish, nimble, kitty, males, altered, determined, medication's, pro, injury, rub, hesitated, purge, machine, guinness, snog, influential, physical, patient, barrier, span, corpse, translated, measureflag, plant's, rhythmic, unmistakable, depths, inspired, previously, tired, trendy,, domestic, incense, infested, told,, sorts, liberties, collateraltied, lingerie, breakdown, broker, bernstein, singer,, errors, twisted, express, venue, olympic, overhead, filches, fag, daughters, fruit,, upsets, white,, gently, jet, adult, ale, drip, pulse's, americansuccess, tackle, impression, grew, chants, canal, direction,, risky, rowing, blues, mountains, pacifism, plastered, mine,, gen, articulate, intro, scientific, is,, increased, till, columbus, discarded, cregularly, attached, conspiracy, housingagreement, annoyance, seen,, 30, alarm, stations, tiddly,, backrunner-up, obscured, r, emirates, emphatically,, you,, nando's, salads, specials, tipsy, parting, you”, delayed, joker‘s, partially, carefully,, docked, pity, cereal, eliminating, brother, minerva, excerpt, simpleton, selling, rankles,, branch, bite, accommodating, tongue, easyas, hang, cow, possibility, guards', architecture, ships, wicked, lawyer, inhabiting, properly, retire, map, gesture, outside,, prestige, solution, hates, hillary, tolerates, princess's, unmarried, tossed, stuff!, jerk, floods, bogs, suspicion, psalms, croupier, chorus, lassie, foremost, counterfeit, nerd, grows, obviously, toleratemeanadvocate, gin,, forgetting, wellto, everton's, pursued, controversial, ramble, occasionally,, shady, meangossip, ofband, tower, reverses, earl, listener, plays, annual, edge,, bird's, zone, pinches, animal's, unhealthy, constitution, territory, familiar, cage, inspire, phenomenon, superb, bootlegged, trash!, digestive, narrative, sparedirector, initiated, observe, translator, trail, stockist, bird,, tailless, dock, lowry's, 13's, forming, sail, forwards, magnate's, understandably, spell, fiction, tart, biker, admission, fiddle, wiped, forth, pm, conveyance, jump, birth, smash, mushroom, states, settles, hollow, maths,, principle, interact, 50, hacking, turf, burning, poisoner, sheltered,, tunneller, 45s,, mazdaist, duff, reorganising, unsuccessful, hitch-hike!, directors, medic, aroused, wouldn't, invited, shepherd's, plaid, suggestion, companion, disowns, pipe, nest, counsellor, firesrifles, magazine, fails, profits, rigorously, kicks, stealing, flexible, brick, cut,, artefact, reinforced, row,, frightful, allegiance, cropped, west,, valuable, snatched, irritation, aggressive, revolted, havana,, trifles, protects, flour, noughties, democracy, perfume, swimmer's, disappearing, sir, three-quarters, overture, distant, dairy, vaguely, capitals, entertain, children's, raises, innate, cooler, mum, reinforcements, editor's, recycling, introduce, dormice, cargo, producer,, prisoner, shame, identity, twist, lining, relaxed,, discourages, romantic, afghan, ran,, cheats, viennese, chart, self-consumed, polemicist, friends, ethnic, heat, varied, recital, learner, mimicsmonkeys, opposition, opening,, exchanged, end,, hug, laptop, scott's, backs, trunks, ill-defined, attribute, queen,, anyone, iran, systems, texture, happen, redolent, lastoffer, curable, correctly, americans, ref, parrot, dickens', quires, idealist, temptation, panted, united's, meadow, probability, demon, informal, soviet, altogetherin, ability, filthy, dismay, flora,, fauna, aintree,, torn, snake, overseas, strongly, nun, boarding, reflective, arenas, tact, illegal, pulse, boobs, pedal,, panel, yen, evergreen, weigh, downrightlie, sight, fragment, woman,, seabird, unevenly, offal, compiler's, ribbons, computers, flash, praised, exact, threshold, onchest, longs, marriage, mainly, medication, breathing, frail,, peeing, stout, mail, speculator, command, sturdy, guarded, plates,, habits, mother's, burn, interpret, representation, home,, “diary”, backward, toss, racket, troubled, moses, generally, understanding, experience, publication's, years, poorly, quilp, athlete, designer,, participating, colourful, charlie, deviant, robbery, detail, ted, veracity, treasury, shoe, apprehension, blocks, france,, gulping, apparent,, manuscript, wandering, craving, analogue, dialect, introductions, deficient, railways,, asked, whale, brand, nevertheless,, everything,, durham, link, perform, tree,, adopt, official‘s, brat,, spring,, abuse, dismissing, ion, deceitful, animal,, isle, tragedy, am-dram, redgrave's, legend, quarrypit, bloomer, climax, soldier's, volunteer, majesty, chamber, here's, calf, silent, surrounds, arsenal, trio, trader, vessels, dish,, knees, regiment, athens, superman, medicine, scandinavian, admire, jewish, substituteevery, majority, treherne, anticipate, funny,, along, linked, opposing, lucan, “acted, irrationally,, disappeared”, findings, empire's, careless, comments, spick, profit, departure, renounced, performs, institution, quarrel, harsh,, woolly, sheets, jotting, tirade, virgin, lice, unlimited, missing,, calvin, region's, nuns, detroit, clever,, tops, dad, matters, heavily, turned,, gardening, disgrace,, outsize, vegetation, instalment, nook, wire, casualeccentric, soothing, charges, rum,, pinched, forward,, concern, attraction, tap, artefactual, picketing, navigator, beginner, accounts, invented, contemptible, misrepresented, dancers,, enormous, garage, income, modify, suite, interested, aware, ditching, wobbly, offers, exciting, provision, hellish, intermission, star,, jock, herald, vitally, promote, worship, sand, officer's, lily, touches, distinguishing, obscurearea, offences, savage, toe, television, leaf, satan's, total, shut, organs, freiburg, 6pm, vegetables, cheshire, introduces, apprentice, 45, danger,, carpenters', print, american's, monarch, bath, contact, established, escapes, destined, feline, rabble, sneers, jobless, indulged, irrational, suggests, eccentrics, second!, seed, garlands, 13, “listener”advertisement, exhibiting, kid, frame, cliched, assiduously, prisoners, edward, dispose, refrain, palm,, conference, outburst, chose, easter, guard, confess, coil, rag, powerful, locally, corporate, structure, sites, tottenham, fifteen, quakersa, everyone's, rung, pocketed, fringe, writer,, cole, describes, carbon, tim's, calmer, talk,, investor,, menu, ordinary, stuff,, wives, tribe, sibling, nor, gay, race,, mischief-maker, bother, forest, mating, cheese,, sergeant, spades, directions, customs, loud,, accidental, 1d, core, finches, upsetting, reims, unexcited, maintaining, restrained, upcoming, inside,, switch, pub,, suppress, relieved, entr'acte,, louis, raving, egotist, alliance, handkerchief, frilly,, sleeveless, leftwithout, reservations, striking, affair, al…, raising, oboist, defending, insult, mice, airline, soil, renew, succeeded, towns, john's, spirits, farmer, industrial, career, material,, deported, miles, rumours, early,, hours,, known, ads, mixture, klein's, lean,, taxi, service,, gambolled, valleysoap, reject, regularly-taken, perkins, organise, invading, rod, player,, criminals, fasting, grasping, ebbing, smut, girlie, iggy, sheltered, mount, cultural, shouted, arise, guns, bears, christian, palm, parking, stole, delighted, spurs, overwhelmed, all,, steamer, freely, communist, dated, concerned, sat, leaderless, excitement, dweller, compilers, serviceman, accountant, instance,, left-wingers, hoover's, appreciated, curtailed, seeks, divorce, scary, addict, encountered, worries, yours, parties, turkey, tabloid, sellingvessel, flipped, fraction, inscribed, quarter, outlying, community's, shape,, athletic, sheridan, areas, fill, controller‘s, likes, mexican, gullible, prescribed, foyer, slantthat, capsized, dainty, surgery, ward, fluke, trimming,, ban's, punnet, plugged, winning, races, magnificent, general,, headgear, arch, unpredictable, skirt, fencing, cavalier, tends, not!, economics, tins, group‘s, slips,, laxative, circles, grounds, h, what'll, upon, celebration, unrecognised, samaritans, stray, taxes, alert, session, sigh, leather-tipped, lethal, laugh, scalpel, shaving, reaction,, markets,, ruin, disbelief, possessed, covent, code, signals, diaries, yellow,, roll,, electricity, pupils, cheryl, spa, lacks, lung, city,, framing, part,, nettle, duty, dim, height, drawer, actors, bra, drum, peter, suited, stake, good-looking,
