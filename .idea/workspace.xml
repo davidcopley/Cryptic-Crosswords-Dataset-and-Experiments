@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f22bd60-d010-4e64-89e2-9aa97686c1b1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/new_train_val_test/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/new_train_val_test/cc_train_val_test.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/neural_networks/.ipynb_checkpoints/Multiclass-Singlelabel-checkpoint.ipynb" afterPath="$PROJECT_DIR$/neural_networks/.ipynb_checkpoints/Multiclass-Singlelabel-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/neural_networks/Multiclass-Singlelabel.ipynb" afterPath="$PROJECT_DIR$/neural_networks/Multiclass-Singlelabel.ipynb" />
+      <change beforePath="$PROJECT_DIR$/neural_networks/.ipynb_checkpoints/Multiclass-Singlelabel-Copy1-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/neural_networks/Multiclass-Singlelabel-Copy1.ipynb" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,8 +70,8 @@
       <file leaf-file-name="cc_train_val_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_train_val_test/cc_train_val_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="128" column="57" lean-forward="false" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+            <state relative-caret-position="360">
+              <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="39" selection-end-column="35" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -467,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_train_val_test/cc_train_val_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="128" column="57" lean-forward="false" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+        <state relative-caret-position="360">
+          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="39" selection-end-column="35" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
